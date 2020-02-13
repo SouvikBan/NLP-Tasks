@@ -1,0 +1,3377 @@
+profitable:JJ	লাভজনক
+goods:NN	সামগ্রী
+offices:NNS	দপ্তব়
+chloride:NN	ক্লোরাইড
+known.as:NN	পরিচিত
+salinity:NN	লবণতা
+sodium:NN	সোডিয়াম
+acquiescence:NN	মৌনসম্মতি
+project.manager:NN	প্রকল্প ম্যানেজার
+boon:JJ	অনুগ্রহ
+sixty:CD	ষাট
+citywide:JJ	নগরব্যপী
+fines:NNS	জরিমানা
+asshole:NN	চরম গর্দভ
+ostentation:NN	জাঁকজমক
+report:VV	অভিযোগ করা
+useless:JJ	অর্থহীন
+clog:VV	অবরোধ করা
+avidly:RB	লুব্ধভাবে
+conjugal:JJ	দাম্পত্য
+certification:NN	সত্যতা অনুমোদন
+certification:NN	প্রমানীকরন
+preservative:JJ	সংরক্ষক
+condiment:NN	স্বাদবর্ধক
+production:NN	উৎপাদন
+coalition:NN	জোট
+pulp:NN	মন্ড
+seawater:NN	সমুদ্রের জল
+soaps:NNS	সাবান
+detergent:NN	ডিটার্জেন্ট
+evaporation:NN	বাষ্পীভবন
+fabric:NN	কাপড়
+redundant:JJ	প্রয়োজনের অতিরিক্ত
+fennel:NN	মৌরী
+information:NN	অর্থবহ তথ্য
+chicly:RB	সৌনাভ
+open university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+open.university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+females:NNS	মেয়ে
+high.standard:NN	উচ্চ মান
+bedrooms:NNS	শোবার ঘর
+males:NNS	ছেলে
+standard:JJ	মান
+appliances:NNS	সরঞ্জামাদি
+restrict:VV	নিয়ন্ত্রণ করা
+rooms:NNS	ঘর
+fridge:NN	ফ্রিজ
+candidates:NNS	আবেদনকারী
+appliance:NN	সরঞ্জাম
+organised:VV	আয়োজিত
+maximum:NN	সর্বোচ্চ
+micro-oven:NN	মাইক্রো ওভেন
+poor:JJ	গরীব
+solidarity:NN	সংহতি
+quelling:NN	দমনকরা
+thorn:NN	কাঁটা
+thorn:NN	কন্টক
+lousy:JJ	উকুনময়
+banned:JJ	নিষিদ্ধ
+non-controversial:JJ	অবিতর্কিত
+cleanup:NN	পরিষ্করণ
+housekeeping:NN	গৃহপরিচর্যা
+routine:JJ	স্বাভাবিক
+non-existent:JJ	অবিদ্যমান
+lapsed:JJ	বাতিল
+grinding:NN	চূর্ণ করা
+target:NN	লক্ষ্য স্থির করা
+condom:NN	কন্ডোম
+perforated:JJ	ছিদ্র যুক্ত
+leisure:NN	অবকাশ
+twisting:NN	পাকানো
+professional:NN	পেশাজীবি
+suitability:NN	উপযোগিতা
+conversely:RB	বিপরীতভাবে
+saunf:NN	মৌরি
+silver:NN	রজত
+credibility:NN	বিশ্বাসযোগ্যতা
+agility:NN	তৎপরতা
+notable.award:NN	উল্লেখযোগ্য পূরস্কার
+field:NN	ক্ষেত্র
+specific.field:NN	নির্দিষ্ট ক্ষেত্র
+recognized:JJ	পরিচিত
+enduring:JJ	স্থায়ী
+collectively:RB	সামগ্রিকভাবে
+convenience:NN	সুবিধা
+scholars:NNS	পন্ডিত
+championships:NN	চ্যাম্পিয়নশিপ
+olympic.games:NP	অলিম্পিক গেমস
+amateur:NN	অপেশাদার
+standing:NN	অবস্থান
+non-league.sport:NN	নন-লিগ স্পোর্ট
+cite:VV	উদ্ধৃতি দেওয়া
+technique:NN	কৌশল
+periodical:NN	পর্যায়ক্রমিক
+feature-length.film:NN	পূর্ণদৈর্ঘ্য চলচ্চিত্র
+personalities:NNS	ব্যক্তিত্ব
+personality:NN	ব্যক্তিত্ব
+innovative:JJ	প্রবর্তক
+large:JJ	অনেক
+mercy:NN	মাফ দেওয়া
+underage:JJ	অপ্রাপ্তবয়স্ক
+adroitness:NN	দক্ষতা
+verandah:NN	বারান্দা
+rupee:NN	রুপি
+sliver:NN	রূপা
+intonation:NN	কথা বলার সময় কন্ঠস্বরের ওজনের উত্থান-পতন
+intonation:NN	স্বরভেদ
+halcyon:NN	মাছরাঙা
+doctor:NN	ডাক্তার
+doctor:NN	চিকিৎসক
+guidelines:NNS	নীতি নির্দেশাবলী
+indication:NN	ইঙ্গিত
+HSDPA:NN	এইচএসডিপিএ
+landing:NN	অবতরন করা
+wedlock:NN	বিবাহ বন্ধন
+HDD:NN	হার্ডডিস্ক
+later:JJ	পরে
+mutual.respect:NN	পারস্পরিক শ্রদ্ধা
+mutual:JJ	পারস্পরিক
+abdurrahman:NP	আব্দুর রহ্‌মান
+climate.change:NN	জলবায়ু পরিবর্তন
+promise:NN	প্রতিজ্ঞা
+biblical:JJ	বাইবেলিয়
+abraham:NP	আব্রাহাম
+tania:NP	তানিয়া
+pillar:NN	থাম
+pillar:NN	অবলম্বন
+failure:NN	অকৃতকার্যতা
+fain:RB	সানন্দে
+faint:JJ	ক্ষীণ
+faint:JJ	নিস্তেজ
+aback:RB	বিস্মিত
+aback:RB	আশ্চার্যান্বিত
+abaddon:NN	নরক
+abashed:JJ	হতভম্ব
+abashed:JJ	অপ্রতিভ
+abject:JJ	হীন
+metabolic:JJ	বিপাকীয়
+objection:NN	আপত্তি
+acts:NNS	আইন
+al-karim:NP	আল কারীম
+lightsome:JJ	আলোকিত
+ethic:NN	নীতিশাস্ত্র
+office:NN	দপ্তর
+judges:NNS	বিচারপতি
+political.office:NN	রাজনৈতিক দপ্তর
+sub-national:JJ	উপ-জাতীয়
+first-level:JJ	প্রথম স্তর
+citywide:JJ	শহর ব্যাপি
+political.figures:NNS	রাজনৈতিক ব্যক্তিত্ব
+speaking:NN	বলা হয়
+spouse:NN	স্বামী বা স্ত্রী
+confer:VV	খেতাব প্রদান করা
+uncontroversial.deletion:NN	অবিতর্কিত অপসারণ
+insufficiency:NN	অপর্যাপ্ততা
+alternately:RB	একান্তরভাবে
+poor:JJ	দূর্বল
+muslims:NPS	মুসলমান
+section:NN	অনুচ্ছেদ
+awaken:VV	জাগ্রত করা
+corroborate:VV	সমর্থিত হওয়া
+entrapped:VV	ফাঁদে পড়া
+wahhabis:NPS	ওহাবী
+jocular:JJ	রসিক
+clog:VV	অবরোধ করা
+odyssey:NN	দুঃসাহসিক যাত্রা
+spunky:JJ	সাহসী
+convection:NN	পরিচলন
+untrustworthiness:NN	বিশ্বাসঘাতকতা
+condom:NN	গর্ভনিরোধক খাপবিশেষ
+draconian:JJ	নির্মম
+nourish:VV	লালন পালন করা
+morphine:NN	বেদনা নাশক ঔষধ
+condensation:NN	ঘনীভবন
+condensation:NN	সংক্ষেপন
+precariously:RB	অনিশ্চিতভাবে
+dynastic:JJ	রাজবংশীয়
+preventative:JJ	প্রতিষেধক
+layering:NN	স্তরে স্তরে
+sperm:NN	বীর্য
+sperm:NN	শুক্র
+sensitize:VV	সংবেদনশীল করা
+amassing:NN	পুঞ্জীভূত করা
+gore:NN	জমাট বাধা রক্ত
+punctually:RB	সময়ানুবর্তীভাবে
+aversion:NN	অনীহা
+aversion:NN	বিরক্তি
+apparatus:NN	যন্ত্রপাতি
+nudge:VV	হালকাভাবে ঠেলা
+consensus:NN	ঐকমত্য
+pillar:NN	স্তম্ভ
+fourth.pillar:NN	চতুর্থ স্তম্ভ
+ruleset:NN	নীতিবিন্যাস
+synopsis:NN	সারাংশ
+foundation:NN	প্রতিষ্ঠান
+resolution:NN	নিরসন
+disagreement:NN	অনৈক্য
+dispute:NN	সংঘাত
+memory:NN	স্মৃতি
+prone:JJ	প্রবণ
+with:IN	সঙ্গে
+shouting:NN	চিৎকার
+unconfirmed:JJ	অসমর্থিত
+propaganda:NN	প্রচার
+caterpillar:NN	শুঁয়োপোকা
+verifiable.evidence:NN	যাচাইযোগ্য সাক্ষ্যপ্রমান
+subject-specific.guidelines:NN	নির্দিষ্ট বিষয়ের নির্দেশাবলী
+topic:NN	আলোচ্য বিষয়
+independent:NN	স্বাধীন
+mourning:NN	শোক
+references:NNS	তথ্যসূত্র
+publications:NNS	প্রকাশনা
+rabbits:NNS	খরগোশ
+perceives:VVZ	উপলব্ধি করা
+teheran:NP	তেহেরান
+najaf:NP	নাজাফ
+Istambul:NN	ইস্তাম্বুল
+communism:NN	বামপন্থা
+webspace:NN	ওয়েব স্পেস
+reproduce:VV	জন্ম দেওয়া
+fueloil:NN	জ্বালানী তেল
+tableau:NN	স্থির উপস্থাপনা
+landline:NN	ল্যান্ডলাইন
+sporadic:JJ	বিচ্ছিন্ন
+forborne:VV	বিরত থাকা
+shipbuilding:NN	জাহাজ নির্মাণ
+bioengineer:NN	জৈব প্রযুক্তিবিদ
+verdict:NN	বিধান
+verdict:NN	বিচারক এর রায়
+congruent:JJ	সমাপতিত
+ruined:JJ	ধ্বংসপ্রাপ্ত
+squirrel:NN	কাঠবিড়ালী
+medium-sized:JJ	মাঝারি-আকারের
+squirrels:NNS	কাঠবিড়ালী
+snake:NN	সাপ
+snakes:NNS	সাপ
+consuming:NN	খাওয়া
+edible:NN	ভক্ষ্য
+inedible:JJ	অখাদ্য
+asshole:NN	চরম গর্দভ
+such:JJ	এ ধরনের
+such:JJ	এই রকম
+shaded:JJ	প্রচ্ছায়িত
+e-mail:NN	ইমেল
+earthbound:JJ	পৃথিবী অভিমুখী
+wikimedia:NN	উইকিমিডিয়া
+wikimedia.foundation:NP	উইকিমিডিয়া ফাউন্ডেশন
+trademark:NN	ট্রেডমার্ক
+colon:NN	কোলন
+mediawiki:NP	মিডিয়াউইকি
+prefix:NN	উপসর্গ
+encyclopedia:NP	বিশ্বকোষ
+namespace:NN	নামস্থান
+rift:NN	ফাটল
+politician:NN	রাজনীতিবিদ
+politician:NN	রাজনীতিবিদ
+department:NN	দপ্তর
+community:NN	সম্প্রদায়
+new.insights:NNS	নতুন পরিজ্ঞান
+insight:NN	পরিজ্ঞান
+skills:NNS	দক্ষতা
+tidbit:NN	জনশ্রুতির মুখোরচক অংশ
+prowess:NN	দক্ষতা
+cute:JJ	সুন্দর
+thesis:NN	গবেষণা নথি
+serene:JJ	প্রশান্ত
+infinite.mercy:NN	অসীম দয়া
+promise:NN	প্রতিশ্রুতি
+sincere.faith:NN	আন্তরিক বিশ্বাস
+eternal.life:NN	অনন্ত জীবন
+salvation:NN	উদ্ধার
+hesitate:VV	ইতস্ততঃ করা
+eternal:JJ	অনন্ত
+eternal:JJ	চিরন্তন শাশ্বত
+eternal:JJ	অমর
+acknowledge:VV	স্বীকার করা
+unattainable:JJ	পাওয়ার বাইরে
+generously:RB	উদারভাবে
+unfathomable.mercy:NN	অপার করুণা
+gratuitously:NN	বিনামুল্যে
+sincere:JJ	আন্তরিক
+sins:NNS	পাপ
+desperate:NN	বেপরোয়া
+gifts:NNS	উপহার
+justification:NN	ন্যায্যতা
+justification:NN	যথাযথতা
+skirmishing:NN	দুই দলের মধ্যে লড়াই
+misunderstand:VV	ভুল বোঝা
+relaxation:NN	অবকাশ যাপন
+promising:JJ	আশাপ্রদ
+promising:JJ	অঙ্গীকারপূর্ণ
+porn:JJ	অশ্লীল
+pleat:NN	পোশাকের ভাঁজ
+shell:NP	শেল
+rape:NN	ধর্ষণ
+draught:NN	ঔষধের মাত্রা
+draught:NN	বায়ু-স্রোত
+draught:NN	টানা
+microorganisms:NNS	জীবাণু
+disinfect:VV	জীবাণুমুক্ত করা
+salty:JJ	লবণাক্ত
+salty.environment:NN	লবণাক্ত পরিবেশ
+stratosphere:NN	আন্তর-আকাশ
+stratosphere:NN	বায়ুমণ্ডলের স্তরবিশেষ
+umpire:NN	আম্পায়ার
+umpire:NN	সালিসি
+farm:NN	গোলাবাড়ি
+farm:NN	খামার
+fluid:NN	তরল
+contract:NN	চুক্তি
+voyage:NN	সমুদ্রযাত্রা
+satiety:NN	পরিতৃপ্তি
+humorist:NN	রসিক
+salty:JJ	নোনতা
+firefly:NN	জোনাকি
+mourn:VV	শোকপালন করা
+purposes:NNS	উদ্দ্যেশ্য
+owners:NNS	স্বত্তাধীকারী
+position:VVP	জায়গা নেওয়া
+infatuation:NN	মোহ
+rich:NN	ধনী
+ostentation:NN	জাঁকজমক
+soil:VV	ময়লা করা
+lower:RBR	নিম্নতর
+registrar:NN	রেজিস্ট্রার
+fancy:JJ	অভিনব
+banned:JJ	নিষিদ্ধ
+carried:VVD	বহন করা
+Masum:NN	মাসুম
+remand:NN	জিজ্ঞাসাবাদের জন্য হাজতে রাখা
+dewan:NP	দেওয়ান
+non-controversial:JJ	অবিতর্কিত
+housekeeping:NN	গৃহপরিচর্যা
+featured.article:NN	নির্বাচিত নিবন্ধ
+arrested:JJ	আটককৃত
+non-existent:JJ	অবিদ্যমান
+bail:NN	জামিন
+featured:JJ	নির্বাচিত
+optimistic:JJ	আশাবাদী
+learned:JJ	বিজ্ঞ
+outface:VV	সামনা সামনি হওয়া
+memo:NN	রসিদ
+memo:NN	মেমো
+outface:VV	মুখোমুখি হওয়া
+different:JJ	বিভিন্ন
+non-commercial:JJ	অ-বানিজ্যিক
+non-free:NN	মুক্ত নয় এমন
+cost:NN	মূল্য
+redistribute:VV	পুনর্বিতরণ করা
+goal:NN	উদ্দেশ্য
+non-commercial.use:NN	অ-বানিজ্যিক ব্যবহার
+free.content:NN	মুক্ত উপাদান
+article:NN	নিবন্ধ
+jellyfish:NN	জেলিফিশ
+bury:VV	সমাহিত করা
+capital:NN	রাজধানী
+bangladesh.government:NP	বাংলাদেশ সরকার
+art.division:NP	কলা বিভাগ
+flag:NN	পতাকা
+central.mosque:NN	কেন্দ্রীয় মসজিদ
+travel:NN	ভ্রমণ করা
+fairy:NN	পরী
+kit:NN	কিট
+promotional.photo:NN	প্রচার-উৎসাহবর্ধক ফোটো
+photo:NN	ফোটো
+historically:RB	ঐতিহাসিকভাবে
+promotional.source:NN	প্রচার-উৎসাহবর্ধক  উৎস
+promotional:JJ	প্রচার-উৎসাহবর্ধক
+press:NN	প্রেস
+understanding:NN	বোঝাপড়া
+fairy.tale:NN	পরীর গল্প
+tale:NN	গল্প
+prince:NN	রাজ পুত্র
+ogre:NN	রাক্ষস
+essay:NN	রচনা
+cover:NN	প্রচ্ছদ
+music:NN	গান
+vase:NN	ফুলদানি
+maker:NN	প্রস্তুত কারক
+horlicks:NP	হরিলক্স
+laptops:NNS	ল্যাপটপ
+jackal:NN	শিয়াল
+presentation:NN	উপহার
+leisure:NN	অবকাশ
+shot:NN	গুলি করা
+felicitous:JJ	সমৃদ্ধ
+such:JJ	এরকম
+washable:JJ	ধোওয়া যায় এমন
+disappointed:JJ	হতাশ
+intentionally:RB	ইচ্ছাকৃত
+sustain:VV	সহ্য করা
+rough.condition:NN	প্রতিকূল পরিস্থিতি
+influenza:NN	ইনফ্লুয়েঞ্জা
+flu:NN	ফ্লু
+influenzavirus:NP	ইনফ্লুয়েঞ্জা ভাইরাস
+swine.flu:NN	সোয়াইন ফ্লু
+adaptable:JJ	পরিবর্তন যোগ্য
+finding:NN	প্রাপ্তি
+abreast:RB	পাশাপাশি
+absurdity:NN	অসংগতি
+helpful:JJ	সহায়ক
+wikimedia.commons:NP	উইকিমিডিয়া কমন্স
+soluble:JJ	দ্রবণীয়
+effective.article:NN	উৎকৃষ্ট নিবন্ধ
+layout:NN	বিন্যাস
+precise:JJ	যথাযত
+chieftain:NN	দলনেতা
+style:NN	রচনাশৈলী
+sterility:NN	বন্ধ্য
+sterile:JJ	নিঃসন্তান
+sterile:JJ	বাঁঝা
+linkup:NN	সংযোগ
+respectable:NN	সম্মানীয়
+muslim.family:NN	মুসলিম পরিবার
+fusion:NN	জোড়া লাগানো 
+proposed:JJ	প্রস্তাবিত
+review:NN	পর্যালোচনা
+subversive:JJ	ক্ষতিকর
+edits:NNS	সম্পাদনা
+further.edits:NNS	আরও সম্পাদনা
+stagger:VV	টলিতে  টলিতে চলা
+nationality:NN	জাতীয়তা
+kotwali.police.station:NP	কোতয়ালী থানা
+kotwali:NN	কোতয়ালী
+officer-in-charge:NP	ভারপ্রাপ্ত কর্মকর্তা
+assume:VV	মেনে নেওয়া
+blowing:NN	প্রবাহিত
+report:VV	অভিযোগ করা
+hydrology:NN	জলবিদ্যা
+prevailing:NN	বিরাজমান
+monsoons:NNS	মৌসুমি বায়ু
+geological.evolution:NN	ভূতাত্ত্বিক বিবর্তন
+fossil:NN	জীবাশ্ম
+adroitness:NN	দক্ষতা
+play:NN	খেলা
+alert:NN	সতর্ক
+deformed:JJ	বিকৃত
+geologic:JJ	ভূতাত্ত্বিক
+geologic.periods:NN	ভূতাত্ত্বিক পর্ব
+deposit:VV	জমা হওয়া
+deposits:NNS	জমা
+transmute:VV	রূপান্তরিত হওয়া
+mineral:NN	খনিজ পদার্থ
+supper:NN	রাতের খাবার
+bar.chart:NN	কলাম লেখচিত্র
+judges:NNS	বিচারপতি
+political.office:NN	রাজনৈতিক দপ্তর
+sub-national:JJ	উপ-জাতীয়
+first-level:JJ	প্রথম স্তর
+office:NN	দপ্তর
+political.figures:NNS	রাজনৈতিক ব্যক্তিত্ব
+speaking:NN	বলা হয়
+citywide:JJ	শহর ব্যাপি
+confer:VV	খেতাব প্রদান করা
+spouse:NN	স্বামী বা স্ত্রী
+uncontroversial.deletion:NN	অবিতর্কিত অপসারণ
+md.:NN	মোঃ
+humble:JJ	বিনীত
+day:NP	দিন
+wank:VV	হস্ত মৈথুন
+verandah:NN	বারান্দা
+mahinee:NP	মাহিনী
+mahinee.bazar:NP	মাহিনী বাজার
+nangalkoat:NP	নাঙ্গলকোট
+comilla:NP	কুমিল্লা
+mendis:NP	মেন্ডিস
+emotional:JJ	আবেগতাড়িত
+post-office:NP	ডাকঘর
+administrator:NN	প্রশাসক
+intellectually:RB	বুদ্ধিমত
+borrow:VV	ধার করা
+patients:NNS	রোগী
+governess:NN	গৃহশিক্ষিকা
+massive:JJ	বিরাট
+lapsed:JJ	বাতিল
+grinding:NN	চূর্ণ করা
+target:NN	লক্ষ্য স্থির করা
+worship:VV	উপাসনা করা
+agents:NNS	দালাল
+condom:NN	কন্ডোম
+bhagavan:NP	ভগবান
+krishnaism:NP	কৃষ্ণ ধর্ম
+avatar:NN	অবতার
+drive:VVP	চালনা করা
+deity:NN	দেব
+dream:VV	স্বপ্ন দেখা
+altogether:RB	একবারে
+earthly:JJ	সাংসারিক
+attention:NN	মনোযোগ
+attitude:NN	অঙ্গভঙ্গী
+abundance:NN	যথেষ্ট
+constrain:VV	বাধ্য করা
+backyard:NN	উঠোন
+advice:NN	উপদেশ
+comfort:NN	আরাম
+as:IN	যেহেতু
+chicly:RB	সৌনাভ
+concept:NN	ধারণা
+punch:VVP	ঘুসি মারা
+good:JJ	ভাল
+puberty:NN	বয়ঃসন্ধি
+concern:NN	সম্পর্কিত
+cuff:NN	জামার আস্তিনের নিম্নাংশ
+cuff:NN	চপেটাঘাত
+obese:JJ	মোটা
+garments:NNS	পোষাক
+pupil:NN	ছাত্র
+conflicts:NNS	দ্বন্দ
+closer:RB	কাছাকাছি
+HSDPA:NN	এইচএসডিপিএ
+horseman:NN	অশ্বারোহী
+pupil:NN	শিষ্য
+landing:NN	অবতরন করা
+acquiescence:NN	মৌনসম্মতি
+mishap:NN	দুর্ঘটনা
+open.university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+open university:NN	উন্মুক্ত বিশ্ববিদ্যালয়
+hellfire:NN	দোযখের আগুন
+woe:NN	শোক
+immune:JJ	অনাক্রম্য
+procedures:NNS	পদ্ধতি
+wedlock:NN	বিবাহ বন্ধন
+visit:NN	সাক্ষাৎকার
+how.to:NN	কিভাবে
+immune.system:NN	অনাক্রম্য সিস্টেম
+islam.khan.chisti:NP	ইসলাম খান চিশতী
+driven:JJ	চালিত
+recreation:NN	উপভোগ
+HDD:NN	হার্ডডিস্ক
+later.period:NN	পরবর্তী সময়
+alauddin.isfahan:NP	আলাউদ্দিন ইসফাহান
+islam.khan:NP	ইসলাম খান
+kamarupa:NP	কামরূপ
+alauddin:NP	আলাউদ্দিন
+fleet:NN	নৌবহর
+khwaja:NP	খাজা
+later:JJ	পরে
+chisti:NP	চিশতী
+mirza:NP	মীর্জা
+ihtimam.khan:NP	ইহতিমাম খান
+professional:NN	পেশাজীবি
+malik.ali:NP	মালিক আলি
+atheist:NN	নাস্তিক
+suitability:NN	উপযোগিতা
+khwaja.usman:NP	খাজা ওসমান
+battles:NNS	যুদ্ধ
+mir.bahr:NP	মীর বাহর
+events:NNS	ঘটনা
+common.life:NN	সাধারণ জীবন
+malik:NP	মালিক
+mir:NP	মীর
+mirza.nathan:NP	মীর্জা নাথান
+acquit:VV	বেকসুর খালাস দেওয়া
+conversely:RB	বিপরীতভাবে
+mutual:JJ	পারস্পরিক
+mutual.respect:NN	পারস্পরিক শ্রদ্ধা
+samples:NNS	নমুনা
+section:NN	অংশ
+apart:RB	পৃথকভাবে
+section:NN	ভাগ
+argue:VV	তর্ক করা
+argue:VV	বাদানুবাদ করা
+argue:VV	যুক্তি দেখানো
+deactivated:JJ	অচল
+box:NN	বাক্স
+other:NN	অন্যান্য
+efficient:JJ	পারদর্শী
+socialist:JJ	সমাজবাদী
+house:NN	ঘর
+guilty:NN	দোষী
+house:NN	আবাস
+drone:NN	পুরুষ মৌমাছি
+credit:NN	
+involve:VVP	জড়ানো
+easychair:NN	আরামকেদারা
+door:NN	দ্বার
+dust:NN	ধুলো
+door:NN	কপাট
+door:NN	দুয়ার
+paintbrush:NN	তুলি
+dust:NN	ময়লা
+while:NN	যখন
+intertwine:VV	একত্রিত হওয়া
+dust:NN	আবর্জনা
+production:NN	নির্মান
+explanations:NNS	ব্যাক্ষ্যা
+back.pain:NN	পশ্চাতে ব্যাথা
+back:JJ	পিছনে
+brainwashing:NN	মগজধোলাই
+substantiate:VV	প্রমাণ করা
+substantiate:VV	সমর্থন করা
+hungry:JJ	ক্ষুধার্ত
+bilayet:NP	বিলায়েত
+abate:VV	প্রকোপ হ্রাস করা
+abatement:NN	কম করা
+abatement:NN	হ্রাস
+abatement:NN	কমতি
+abattoir:NN	সাধারণের কসাইখানা
+abbacy:NN	মঠের কর্তার পদ
+abba:NN	পরম পিতা
+a:DT	ইংরেজী বর্ণমালার আদ্যাক্ষর
+abase:VV	হীনপদস্থ করা
+abase:VV	অপমানিত করা
+abandon:VV	পরিত্যাগ করা
+abandon:VV	বর্জন করা
+abashment:NN	অপ্রস্তুত ভাব
+abaddon:NN	নরক
+abash:RB	অপ্রস্তুত করা
+abash:RB	লজ্জা দেওয়া
+abbess:NN	মঠের কর্তী
+abbe:NN	ফরাসী ধর্মযাজক বিশেষ
+aback:RB	পশ্চাদ্দিকে
+abandoned:VVN	পরিত্যক্ত
+abandoned:VVN	দুশ্চরিত্র
+abacus:JJ	বলফ্রেম
+abacus:JJ	গননা শিক্ষার ফ্রেম বিশেষ
+aardvark:NN	দক্ষিণ আফ্রিকার জন্তু বিশেষ
+abatis:NN	বাহিরের দিকে প্রসারিত
+abaft:NN	জাহাজের পিছনের অর্ধাংশ
+abandonment:NN	বর্জন
+abandonment:NN	পরিত্যাগ
+abbey:NN	মঠ
+ability:NN	সামর্থ্য
+ability:NN	শক্তি
+acknowledge:VVP	প্রাপ্তিস্বীকার করা
+acknowledge:VVP	সত্যতা স্বীকার করা
+advise:VV	পারামর্শ দেওয়া
+advise:VV	নির্দেশ দেওয়া
+abide:VV	মেনে চলা
+abide:VV	প্রতিক্ষা করা
+abide:VV	বাস করা
+abrogation:NN	রহিত করা
+abrogation:NN	রদ করণ
+accelerator:NN	গতিবর্ধক
+academy:NN	শিক্ষায়ন
+academy:NN	তাত্ত্বিয় শিক্ষা প্রতিষ্ঠান
+adrenal:JJ	মুত্র গ্রন্থি সম্বন্ধীয়
+aggregate:JJ	একত্রে জড়ো করা
+adjacency:NN	নৈকট্য
+adjacency:NN	লাগোয়া ভাব
+adduce:VV	উদ্বুদ্ধ করা
+ago:RB	অতীতে
+afraid:JJ	ভীত
+abidance:NN	মানিয়া চলা
+additional:JJ	বাড়তি
+adjudicator:NN	নিষ্পত্তিকারক
+advantage:NN	হসুবিধা
+advantage:NN	সুযোগ
+advocacy:NN	পক্ষ সমর্থন
+african:JJ	আফ্রিকার অধিবাসী
+agile:FW	চঞ্চল
+acclamation:NN	হর্ষধ্বনি
+acclamation:NN	প্রশংসাবাদ
+admiration:NN	শ্রদ্ধা
+admissible:JJ	গ্রহনীয়
+aha:NN	ওহো
+aha:NN	আহা
+access:NN	প্রবেশ
+access:NN	প্রবেশাধিকার
+accused:VVN	অভিযুক্ত
+afire:NN	জ্বলন্ত
+accusative:JJ	কর্মকারক
+advancement:NN	উন্নয়ন
+advancement:NN	অগ্রেগমন
+agonize:NN	অত্যাধিক যন্ত্রণা দেওয়া
+ablution:NN	পূণ্যস্নান
+ablution:NN	আচমন
+ablution:NN	সাধারণ স্নান
+administer:VV	শাসন করা
+accomaniment:NN	আনুষঙ্গিক পদার্থ
+accomaniment:NN	গীতির সাথে সংগত বাদ্য
+accompany:VV	সহগমন করা
+accompany:VV	সঙ্গে থাকা
+acceptabillity:NN	গ্রহণ যোগ্যতা
+acceptabillity:NN	মনোজ্ঞতা
+affinity:NN	ঘনিষ্ট সম্পর্ক
+addle:NN	পঁচা
+addle:NN	ঘোলা পড়া
+abiding:JJ	মানিয়া চলে এমন
+abiding:JJ	স্থায়ী
+ack-ack:JJ	বিমানবিধ্বংসী কামান
+agnosticism:NN	অজ্ঞাবাদ
+affracy:NN	তুমুল কলহ
+abdicate:VVP	অধিকার ত্যাগ করা
+abdicate:VVP	ক্ষমতা ত্যাগ করা
+abdicate:VVP	পদত্যাগ করা
+accrur:NN	স্বাভাবিক ভাবে উৎপন্ন হওয়া
+affirmation:NN	শপথ করে চলা
+act:NN	ভান করা
+abduction:NN	অপহরণ
+agate:NN	অতি কঠিন পাথর
+agate:NN	মূল্যবান পাথর
+abscess:NN	ফোড়া
+abscess:NN	বিস্ফোটক
+accept:VV	সম্মত হওয়া
+accept:VV	স্বীকার করা
+adjudge:VV	মীমাংসা করা
+afore:RB	অগ্রে
+abettor:NN	দুষ্কর্মে সাহয্যকারী
+affectionate:NN	স্নেহশীল
+acquiescence:NN	মৌন সম্মতি
+aggression:NN	চড়াও হয়ে আক্রমণ
+addendum:NN	অভিযোজ্য বস্তু
+aerolite:NN	উল্কা পিন্ড
+agnostic:NN	অঞ্জেয়বাদী
+absurd:JJ	অসংগত
+absurd:JJ	উদভট
+absurd:JJ	হাস্যকর
+acclaim:NN	উচ্চৈঃস্বরে প্রশংসা করা
+absenteeism:NN	নিজ গৃহ হতে প্রায় বাহিরে থাকার স্বভাব
+acerbity:NN	অম্লতা
+acerbity:NN	রূঢ়তা
+acerbity:NN	তিক্ততা
+abstain:VV	মদ্যপান না করা
+accustom:NN	অভ্যস্ত করা
+ahead:RB	সম্মুখে
+absconder:NN	ফেরারী আসামী
+adjustable:JJ	নিয়ন্ত্রন যোগ্য
+academician:NN	অ্যাকাডেমির সদস্য
+acme:NN	সর্বোচ্চ সীমা
+acme:NN	চুড়া
+acme:NN	চরম উন্নতি
+acclivity:NN	পাহাড়ের ক্রমোন্নত ভূমিভাগ
+acclivity:NN	চড়াই
+activity:NN	সক্রিয়তা
+activity:NN	কর্মতৎপরতা
+absent:JJ	গর হাজির
+adit:NN	প্রবেশ পথ
+adit:NN	সুড়ঙ্গ
+acoustic:JJ	শ্রবণশক্তি সম্বন্ধীয়
+acoustic:JJ	ধ্বনি সম্বন্ধীয়
+acquainted:JJ	পরিচিত
+acquainted:JJ	অবগত
+acre:NN	৪৮৪০ বর্গগজ পরিমিত স্থান
+action:NN	কার্য
+action:NN	ক্রিয়াফল
+abnegate:VV	ত্যাগ স্বীকার করা
+accucheur:NN	যে পুরুষ প্রসবের কার্যে ধাত্রীকে সাহায্য করে
+adamantine:NN	ইচ্ছা শক্তিতে শক্তিশালী
+adamantine:NN	চরিত্রে অত্যন্ত শক্তিশালী
+acting:VVG	কার্য সম্পাদান
+adulterate:VV	অপমিশ্রণ করা
+aberration:NN	সত্যপথ হতে স্খলন
+abode:NN	বাসস্থান
+abode:NN	আবাস
+abode:NN	গৃহ
+adrenalin:NN	প্রাণী দেহস্থরস বিশেষ
+affectation:NN	ভন্ডামি
+agony:NN	যন্ত্রনা
+agony:NN	শারীরিক যন্ত্রনা
+agony:NN	মানসিক যন্ত্রনা
+adulteration:NN	অপমিশ্রণ করণ
+advisable:JJ	যুক্তি সংগত
+advisable:JJ	বিধেয়
+advisable:JJ	গ্রাহ্য
+afforest:NN	অরন্যে পরিনত করা
+abstention:NN	নিবৃত্ত
+abstention:NN	সংযম
+abyss:NN	অতল গহ্বর
+abyss:NN	সুগভীর হতাশা
+abet:RB	অসৎ কার্যে সাহায্য করা
+adamant:JJ	অত্যন্ত কঠিন বস্তু
+adamant:JJ	জেদী
+affidavit:NN	হলফনামা
+agriculturist:NN	কৃষি বিদ্যায় নিপুন ব্যক্তি
+actuate:VV	কার্যে প্রবিত্ত করা
+actuate:VV	প্রণোদিত করা
+abdication:NN	পরিত্যাগ
+aggradize:NN	ক্ষমতা বৃদ্ধি করা
+aggradize:NN	সম্পদ বৃদ্ধি করা
+abutment:NN	সেতুর পিল পা
+adonish:JJ	সুন্দর যুবক
+adonish:JJ	ফোতো বাবু
+advalorem:NN	মূল্যায়নুপাতে
+adroit:JJ	নিপুন
+adroit:JJ	দক্ষ
+addle-brained:JJ	নিবোর্ধ
+addle-brained:JJ	জড় বুদ্ধি
+accommodate:VV	থাকার জায়গা করে দেওয়া
+accommodate:VV	মানিয়া নেওয়া
+agronomy:NN	কৃষি কলা
+afterwards:RB	পরবর্তীকালে
+abundant:JJ	অধিক
+abundant:JJ	প্রচুর
+abusive:JJ	নিন্দাময়
+abusive:JJ	গালাগালি পূর্ণ
+actuary:NN	বিমা সম্বন্ধীয় দক্ষ ব্যক্তি
+adventitious:JJ	আকস্মিক
+adventitious:JJ	বাইরের
+adventitious:JJ	অস্থানিক
+ahoy:NN	ওহে শোন
+ahoy:NN	নাবিকদের মধ্যে পরস্পরকে ডাকিবার রীতি
+abound:VVP	সংখ্যায় যথেষ্ট
+abound:VVP	পরিমানে যথেষ্ট হওয়া
+adam:RB	আদম
+adam:RB	প্রথম মনুষ্য
+aftertought:NN	কাজ হয়ে যাবার পরে যে চিন্তা মনে আসে
+agreement:NN	চুক্তি
+absolute:JJ	সম্পূর্ন
+absolute:JJ	বিশুদ্ধ
+absolute:JJ	শর্তহীন
+adolescence:NN	কৈশোর
+again:RB	আবার
+again:RB	বারংবার
+acridity:NN	তিক্ততা
+acridity:NN	কটুতা
+abhor:VV	ঘৃণা সহকারে পরিহার করা
+acroboat:NN	দড়বাজিকর
+affix:NN	প্রত্যয়
+adequate:JJ	পর্যাপ্ত
+adequate:JJ	প্রচুর
+affranchiac:NN	দাসত্ব
+affranchiac:NN	দাসত্ব হতে মুক্ত করা
+adverbial:JJ	ক্রিয়া বিশেষণ সম্বন্ধনীয়
+adaptabilitiy:NN	উপযোগীতা
+accretion:NN	বাহির হইতে যুক্ত হইয়া বৃদ্ধি
+accretion:NN	পরিবৃদ্ধি
+add:VV	যোগকরা
+add:VV	একত্র করা
+above-mentioned:JJ	পূর্বোল্লিখিত
+abdoman:NN	উদর
+abdoman:NN	তলপেট
+accommodating:VVG	মানিয়া নিতে পারে এমন
+adieu:FW	বিদায়
+adieu:FW	বিদায় সম্ভাষণ
+adder:NN	ইউরোপের এক ধরণের ছোট বিষ ধর সাপ
+absorbent:JJ	শুষে নিতে পারে এমন
+absorbent:JJ	শোষক পদার্থ
+abort:VV	গর্ভস্রাব হওয়া
+abort:VV	ত্যাগ করা
+acidify:VV	অম্ল করা
+admire:VV	শ্রদ্ধা করা
+adultery:NN	ব্যভিচার
+admonishment:NN	সতর্কী করণ
+admonishment:NN	তিরষ্কার
+admonishment:NN	উপদেশ
+admiral:NN	নৌ বহরের অধ্যক্ষ
+abolionist:NN	কোন কিছু উচ্ছেদ করার সমর্থক
+acreage:NN	কোন এক খন্ড জমিতে একরের সংখ্যা
+adversity:NN	প্রতিকূল অবস্থা
+acute:JJ	তীব্র
+acute:JJ	সংকট জনক
+aerate:VV	বাতাস প্রবেশ করানো
+aggravation:NN	বৃদ্ধি
+abusiveness:NN	কটুভাষিতা
+accursed:VVN	অভিশপ্ত
+accursed:VVN	ঘৃণ্য
+adjudicate:VV	রায় দেওয়া
+abstersion:NN	পরিষ্কারকরণ
+abstersion:NN	মুছিয়া ফেলা
+academic:JJ	কলেজ বা বিশ্ববিদ্যালয়ের ছাত্র
+accomplishment:NN	সম্পাদন
+accomplishment:NN	সম্পাদিত কার্য
+afforestation:NN	বনীকরণ
+afforestation:NN	বন সম্পদ বৃদ্ধি করা
+acorn:NN	ওক বৃক্ষের ফল
+acquiesce:VV	নীরবে সম্মতি দেওয়া
+ahem:NN	গলা খাকারি
+ace:NN	তাসের টেক্কা
+ace:NN	পাশার পোয়া
+adage:NN	প্রবাদ
+admixture:NN	সংমিশ্রন
+able-bodied:JJ	সবলকায়
+able-bodied:JJ	বলিষ্ঠ
+afloat:NN	জলে ভাসমান
+afresh:NN	নতুন করে
+absob:NN	শুষিয়া নেওয়া
+absob:NN	নিবিষ্ট করা
+admission:NN	প্রবেশাধিকার
+abysm:NN	অতল গহ্বর
+abysm:NN	খাদ
+adjourn:VV	অধিবেশন স্থগিত রাখা
+aesthetical:JJ	সৌন্দর্য বিজ্ঞান বিষয়ক
+affliction:NN	মানসিক ক্লেষ
+aground:NN	অগভীর জলের তলায় আবদ্ধ
+abstergent:NN	পরিস্কারক
+abstergent:NN	পরিষ্কারক পদার্থ
+adjudication:NN	বিচারকের রায়
+absorbing:VVG	অত্যান্ত চিত্তাকর্ষক
+abetment:NN	কুকর্মে সহায়তা বা প্ররোচনা
+adjust:VV	নিয়ন্ত্রিত করা
+adversary:NN	বিপক্ষ
+adversary:NN	প্রতিদ্বন্ধী
+adorn:VV	অলংকারে সুশোভিত করা
+achievemet:NN	কার্য সম্পাদান
+achievemet:NN	অবদান
+achievemet:NN	কীর্তি
+affluence:NN	প্রাচুর্য
+accomplished:VVN	গুণান্বিত
+accomplished:VVN	শিক্ষিত
+accomplished:VVN	রুচি সম্পন্ন
+according:VVG	অনুসারে
+afferent:NN	সভ্য
+aconite:NN	এক প্রকার বিশাক্ত উদ্ভিদ
+adjure:NN	দিব্য দেওয়া
+abortive:JJ	ব্যর্থ
+abortive:JJ	নিস্ফল
+acceptance:NN	গ্রহণ বা স্বীকৃতি
+actualise:NN	বাস্তবে পরিনত করা
+adore:VVP	পুজা করা
+advice:NN	পরামর্শ
+afield:NN	ক্ষেত্রের দিকে
+abominable:JJ	ঘৃণ্য
+abominable:JJ	বীভৎস
+abominable:JJ	অত্যন্ত খারাপ
+adventure:NN	দুঃসাহসিকতা
+adventure:NN	ঝুকি
+adulate:VV	হীনভাবে তোষামোদ করা
+aid:NN	সাহায্য করা
+adipose:NN	চর্বি বিশিষ্ট
+aforementioned:JJ	পূর্বকথিত
+aegis:NN	আরবণ
+adolescnet:NN	নবযুবক
+adolescnet:NN	নবযুবতী
+adjunct:NN	বিশেষণ
+admirable:JJ	প্রশংসনীয়
+admirable:JJ	চমৎকার
+aggravate:NN	উত্যক্ত করা
+adaptable:JJ	অভিযোজনীয়
+affiliation:NN	আসক্তি
+acceptable:JJ	গ্রহণীয়
+acceptable:JJ	মনোরম
+affront:NN	প্রকাশ্যে অপমান করা
+adhesion:NN	সংযুক্ত থাকা
+adhesion:NN	সংলগ্নতা
+abstract:JJ	নিষ্কাশন করা
+abstract:JJ	পৃথক করা
+adjutant:JJ	সেনা বিভাগের সহকারী কর্মচারী
+adventurous:JJ	দুঃসাহসিক
+adventurous:JJ	দুঃসাহসপূর্ণ
+accountancy:NN	হিসাব রক্ষণের কার্য বা পদ
+abed:RB	শয্যাগত
+abed:RB	শয্যার উপরে
+abc:NP	বর্ণমালা
+abc:NP	প্রাথমিকতত্ত্ব বা বিষয়
+aged:JJ	বয়স্ক
+advanced:VVD	অগ্রসর
+a-bomb:NP	পারমানবিক বোমা
+aetiology:NN	কারণ নির্দেশ
+ah:UH	আহা
+ah:UH	হায়
+ah:UH	বিস্ময়
+ah:UH	করুনা
+achieve:VV	সাফল্যের সঙ্গে লাভ করা
+advent:NN	আগমন
+advent:NN	আবিরর্ভাব
+accuracy:NN	ভ্রমশূণ্যতা
+accuracy:NN	নিখুঁতভাব
+admittedly:RB	সর্বম্মতিক্রমে
+agonizing:JJ	অত্যন্ত দুঃখ জনক
+agree:VVP	সম্মত হওয়া
+agglomerate:NN	পিন্ড করা
+abnormality:NN	নিয়মের ব্যতিক্রম
+abnormality:NN	অস্বাভাবিক
+affirmatively:RB	নিশ্চয় রূপে
+accidentally:RB	দৈবক্রমে
+accidentally:RB	আকস্মিকভাবে
+about:IN	চর্তুদিকে
+about:IN	নিকটবর্তী
+about:IN	আসন্ন
+agitation:NN	আলোড়ণ
+accomplice:NN	দুষ্কমের সহচর
+accomplice:NN	দুষ্কমের সহযোগী
+addicted:VVN	আসক্ত
+addicted:VVN	মন্দ অভ্যাসে অভ্যস্ত
+address:NN	সম্বোধন করা
+address:NN	ভাষন দেওয়া
+affably:RB	শিষ্ঠাচারের সাথে
+abject:JJ	শোচনীয়
+afflict:NN	দুঃখ দেওয়া
+adapt:VV	পরিবর্তনের দ্বারা উপযোগী করা
+agency:NN	মাধ্যম
+acquittance:NN	ঋণ পরিশোধ
+acquittance:NN	পূর্ণ প্রাপ্তি রশিদ
+ache:NN	বেদনা
+agitated:JJ	বিক্ষুদ্ধ
+agent:NN	প্রতিনিধি
+aesthetics:NNS	সৌন্দর্য বিজ্ঞান
+afflicytion:NN	মানসিক যন্ত্রনা
+administrator:NN	পরিচালক
+accurate:JJ	সঠিক
+accurate:JJ	নির্ভুল
+agazq:NN	স্থির দৃষ্টিতে
+aerofoil:NN	উড়জাহাজের পাখা
+advertiser:NN	বিজ্ঞাপন দাতা
+abut:RB	প্রান্তে থাকা
+abut:RB	শেষ হওয়া
+agreeable:NN	মনোরম
+absolutism:NN	স্বৈরতন্ত্র শাসকের শাসন
+abysmal:JJ	অতল স্পর্শ
+abysmal:JJ	অগাধ
+abysmal:JJ	অন্তহীন
+admirer:NN	গুনমুদ্ধ ব্যক্তি
+adjacent:JJ	পাশ্ববর্তী
+adjacent:JJ	আসন্ন
+adverse:JJ	প্রতিকূল
+agitator:NN	উত্তেজনা সৃষ্টিকারী
+adjutancy:NN	সেনা বিভাগের সহকারী কর্মচারীর পদ
+adept:JJ	সুদক্ষ ব্যক্তি
+accumulate:VV	জড়ো করা
+accumulate:VV	জড়ো হওয়া
+abjection:NN	নীচ বা হীন অবস্থা
+adult:NN	বয়স্ক
+adult:NN	প্রাপ্ত বয়স্ক
+aeronautics:NN	বিমান চালানোর বিদ্যা
+acidosis:NN	রক্তে অম্লর আধিক্য
+administrative:JJ	প্রসাশনিক
+abuse:VV	গালাগালি দেওয়া
+abuse:VV	দুর্ব্যবহার করা
+abolish:VV	লোপ করা
+abolish:VV	রদ করা
+adoration:NN	আরাধনা
+abrasive:JJ	ঘষে ফেলা যায় এমন
+ablactation:NN	শিশুকে স্তন ত্যাগ করানো
+account-general:JJ	হিসাব নিকাশ বিভাগের অধ্যক্ষ
+abjure:NN	শপথ পূর্বক পরিত্যাগ করা
+aflame:NN	জ্বলন্ত
+aggressive:JJ	আক্রমণশীল
+abrade:NN	ঘষিয়া তুলে ফেলা
+abloom:RB	প্রস্ফুটিত
+accommodtion:NN	মানিয়া নিতে
+accommodtion:NN	উপযোগীকরণ
+accommodtion:NN	সুযোগ সুবিধা
+admix:NN	মিশ্রিত করা
+admix:NN	মিশিয়ে দেওয়া
+adhesive:JJ	আঠালো
+accomplish:VV	সম্পন্ন করা
+abbreviation:NN	সংক্ষেপ করণ
+abbreviation:NN	সংক্ষিপ্তরূপ
+abbreviate:VV	সংক্ষিপ্ত করা
+admonish:VV	মৃদু ভৎর্সনা করা
+admonish:VV	সতর্ক করা
+absorbed:VVN	বিশোষিত
+absorbed:VVN	নিবিষ্ট
+absorbed:VVN	তন্ময়
+ado:NN	গোলমাল
+adjective:NN	বিশেষণ
+adjective:NN	গুণবাচক শব্দ
+accouchement:NN	সন্তান প্রসব
+advocate-general:JJ	সর্বপ্রধান সহকারী উকিল
+advert:NN	মনফিরানো
+acquirement:NN	অর্জন
+across:IN	অপর পারে
+aborigines:NNS	আদিম অধিবাসীগণ
+advantage-ground:JJ	অপেক্ষাকৃত সুবিধা জনক অবস্থা
+abscond:NN	আত্মগোপন করা
+abscond:NN	ফেরার হওয়া
+affected:VVN	প্রভাবিত
+acoustics:NNS	স্বনবিদ্যা
+acoustics:NNS	শ্রুতিবিদ্যা
+accede:VV	রাজী হওয়া
+accede:VV	গদি লাভ করা
+adumbrate:VV	ঈষৎ পূর্বাভাষ দেওয়া
+adulatory:NN	অত্যাধিক প্রসংশা সূচক
+affection:NN	অনুরাগ
+absorption:NN	পরিশোষণ
+absorption:NN	সম্পূর্ণ মনোনিবেশ
+agnomen:NN	অতিরিক্ত নাম
+ague:NN	পালা জ্বর
+acquaint:VV	পরিচিত করানো
+acquaint:VV	আলাপ করানো
+adherent:JJ	সংলগ্ন
+abstraction:NN	অন্যমনস্কতা
+abstraction:NN	নিরপেক্ষতা
+absorbable:JJ	শোষন যোগ্য
+adherence:NN	অনুগত্য
+acriomony:NN	বদমেজাজ
+acriomony:NN	স্বভাবের রুক্ষতা
+abnormal:JJ	ব্যতিক্রমমূলক
+acquisition:NN	অর্জন
+acquisition:NN	অর্জিত দ্রব্য বা বিষয়
+accusation:NN	অভিযোগকরণ
+accusation:NN	নালিশ
+agelogn:NN	বহু পুরাতন
+accountrements:NNS	পরিচ্ছদ
+accountrements:NNS	সামরিক সাজ-সরঞ্জাম
+adornment:NN	সৌন্দর্য সম্পাদনা
+aerodrome:NN	বিমান ঘাটি
+abroad:RB	বিদেশে
+abroad:RB	বাহিরে
+abroad:RB	অবাধে
+accmpanist:NN	গীতের সহিত সংগতকারী
+abrupt:JJ	আকস্মিক
+abrupt:JJ	অসামান্য
+abrupt:JJ	অসংলগ্ন
+adulation:NN	চাটুবাদ
+actually:RB	প্রকৃত পক্ষে
+actually:RB	বস্তুতঃ
+actually:RB	কার্যত
+afflicted:JJ	পীড়িত
+adulterine:NN	জারজ সন্তান
+abolition:NN	বিলোপ
+abolition:NN	রদ
+abolition:NN	বিলুপ্তি
+abreast:RB	কাঁধে-কাঁধে
+advangeous:JJ	লাভ জনক
+aeroplane:NN	উড়ো জাহাজ
+abstinent:NN	সংযমী
+abstinent:NN	মিতাচারী
+accepted:VVN	গৃহীত
+accepted:VVN	স্বীকৃত
+accepted:VVN	প্রচলিত
+absolve:VVP	অপারাধ হতে মুক্ত বলে ঘোষনা করা
+admonitory:NN	সতর্কতা সূচক
+abstemious:JJ	মিতাচারী
+abstemious:JJ	সংযোমী
+acidity:NN	অম্লতা
+acidity:NN	অম্লত্ব
+ably:RB	যোগ্যতার সহিত
+ably:RB	দক্ষতার সহিত
+aesthetic:JJ	সৌন্দর্য বিজ্ঞান বিষয়ক
+aghast:NN	অত্যন্ত ভয়ে অভিভূত
+accost:VV	প্রথমে সম্ভাষণ করা
+accost:VV	অগ্রসর হইয়া কথা বলা
+absentee:JJ	অনুপস্থিত লোক
+accordingly:RB	তদানুসারে
+accordingly:RB	অতএব
+abridgement:JJ	সংক্ষেপ করণ
+abridgement:JJ	সংক্ষেপন
+adjoin:VV	সংযুক্ত করা
+adverb:NN	ক্রিয়া বিশেষণ
+adverb:NN	বিশেষণের বিশেষণ
+ablative:JJ	অপাদান কারক
+acumen:NN	সূক্ষদৃষ্টি
+acumen:NN	প্রখর বুদ্ধি
+acid:NN	অম্ল
+acid:NN	টক
+abutter:RB	লাগোয়া সম্পতির মালিক
+abduct:NN	অপহরণ করা
+abomination:NN	অত্যান্ত ঘৃণা
+abomination:NN	বিরক্তি বোধ
+affiliate:NN	অন্ত ভক্তি
+absence:NN	অনুপস্থিতি
+absence:NN	অভাব
+acquire:VV	অধিকার করা
+acetic:JJ	ভিনিগার
+accessory:NN	আনুষঙ্গিক
+accessory:NN	প্রয়োজনীয় বস্তু
+aerogram:NN	বেতার বার্তা
+aerial:JJ	আকাশ তার
+aerial:JJ	বায়োবীয়
+abortion:NN	গর্ভপাত
+adinterim:NN	অন্তবর্তী কালীন
+abilities:NNS	ধীশক্তি
+absent-minded:JJ	অন্যমনস্ক
+absent-minded:JJ	আনমনা
+advance:NN	অগ্রসর হওয়া
+addition:NN	সংকলন
+addition:NN	বৃদ্ধি
+addition:NN	যোগ
+adoptive:JJ	দত্তক গ্রহিতা
+agape:NN	হা করে
+agog:NN	উত্তেজিত
+affect:VV	পরিবর্তন সাধন করা
+advertise:VV	প্রচার করা
+affirn:NN	অনুমোদন করা
+accent:NN	ধ্বনির তীব্রতা
+accent:NN	উচ্চারণে জোর দেওয়া
+actress:NN	নটী
+aberrant:JJ	বিপদগামী
+aberrant:JJ	অস্বাভাবিক
+accurst:NN	অভিশপ্ত
+accurst:NN	ঘৃণ্য
+addax:NN	উত্তর আফ্রিকা ও আরবের বড় হরিন বিশেষ
+adhoc:NN	বিশেষ উদ্দেশে গঠিত
+affable:JJ	অমায়িক
+aeronaut:NN	বৈমানিক
+actual:JJ	বাস্তব
+actual:JJ	সত্য
+affright:NN	ভীত করা
+agitate:NN	আন্দোলন করা
+adequacy:NN	প্রাচুর্য
+adequacy:NN	পর্যাপ্তি
+aborignal:JJ	আদিম
+aborignal:JJ	প্রাচীন
+admittance:NN	প্রবেশ
+admittance:NN	প্রবেশাধিকার
+account:NN	গণনা
+account:NN	হিসাব
+administration:NN	শাসন কার্য
+abrouptly:RB	হঠাৎ
+abrouptly:RB	সহসা
+agriculture:NN	চাষ
+admitted:VVD	স্বীকৃত
+aeon:NN	যুগ
+aeon:NN	অকল্প
+aeon:NN	অনন্ত কাল
+afar:RB	বহুদুরে
+adonize:VV	নিজেকে সজ্জিত করা
+adviser:NN	পরামর্শ দাতা
+adviser:NN	উপদেষ্টা
+adviser:NN	মন্ত্রী
+agglutionate:NN	আঠা দ্বারা সংযুক্ত করা
+agiotage:NN	ফাটকা ব্যবসা
+accidental:JJ	আকস্মিক
+accidental:JJ	দুর্ঘটনামূলক
+abrogate:VV	আইন করা
+abrogate:VV	প্রথারহিত করা
+abrogate:VV	রদ করা
+abundance:NN	প্রচুর্য
+abundance:NN	যথেষ্ট পরিমান
+affabity:NN	শিষ্ঠাচার
+ablaze:JJ	জ্বলন্ত
+ablaze:JJ	উজ্জল
+abbot:NN	মঠের কর্তা
+addressee:NN	প্রাপক
+actor:NN	নট
+accedent:NN	আকস্মিক
+accedent:NN	দুর্ঘটনা
+adaptation:NN	উপযোকরণ
+acrid:JJ	তিক্ত
+acrid:JJ	ঝাল
+acrid:JJ	বিস্বাদ
+accrescence:NN	ক্রমিকবৃদ্ধি
+acceleate:VV	দ্রুততর করা
+acceleate:VV	গতি বৃদ্ধি করা
+aft:NN	পশ্চাদ্বর্তী
+active:JJ	কার্যকর
+active:JJ	ফলপ্রদ
+active:JJ	কর্মঠ
+accumulation:NN	সংগ্রহ
+accumulation:NN	সঞ্চয়
+accumulation:NN	স্তুপ
+accumulation:NN	রাশি
+abhorrent:JJ	জঘন্য
+abhorrent:JJ	ঘৃণ্য
+abstractedly:RB	অন্যমনস্কভাবে
+abstractedly:RB	মনে-মনে
+aboard:IN	জাহাজের মধ্যে
+affirmative:JJ	স্বীকৃতি সূচক
+aforethought:NN	পূর্বকল্পিত
+accord:NN	ঐক্য
+accord:NN	সামঞ্জস্য
+absorptive:JJ	শোষণক্ষম
+absorptive:JJ	শুষে নিতে পারে এমন
+accordion:NN	বাদ্যযন্ত্র বিশেষ
+abeyance:NN	মুলতবি
+abeyance:NN	সাময়িক স্থগিতাবস্থা
+admit:VV	ভর্তি করা
+afternoon:UH	বিকাল বেলা
+adulterer:NN	ব্যভিচারী
+acquisitive:JJ	অর্জন করিতে ইচ্ছুক
+accidence:NN	রূপতত্ত্ব
+acne:NN	মুখব্রণ
+accountable:JJ	কৈফিয়ত দেওয়ার জন্য বাধ্য
+aggressor:NN	আক্রমণকারী দেশ
+accuse:VV	অভিযোগ করা
+accuse:VV	দোষারোপ করা
+adjustment:NN	ব্যবহার উপযোগী করা
+adjustment:NN	সমন্বয় সাধন
+abnegation:NN	ত্যাগ স্বীকার
+abnegation:NN	আত্মোৎসর্গ
+agrarain:NN	ভূমি ও কৃষি বিষয়ক
+accountant:NN	হিসাবরক্ষক
+accountant:NN	গাণনিক
+adulterant:JJ	ভেজাল দেওয়ার উপকরণ
+afghan:JJ	আফগানিস্থানের অধিবাসী
+accumulator:NN	সঞ্চয়কারী
+acknowledgement:NN	স্বীকার
+acknowledgement:NN	প্রাপ্তিস্বীকার পত্র
+acknowledgement:NN	রসিদ
+affective:NN	অনুভুতি সম্বন্ধীয়
+acclimatize:VV	আবহাওয়া বা জলবায়ূতে অভ্যস্ত করনো
+affectionality:NN	প্রীতি পূর্ণ ভাবে
+absurdity:NN	অসংগত বিষয়
+adrift:RB	ভাসমান অবস্থায়
+actionable:JJ	মোকদ্দমার যোগ্য
+acquittal:NN	আদালতের বিচারে খালাস
+acceleration:NN	বেগবর্ধন
+acceleration:NN	দ্রুতকরণ
+acceleration:NN	ত্বরণ
+advertising:NN	বিজ্ঞাপন সরবরাহকারী
+accordance:NN	ঐকমত্য
+accordance:NN	অনুরূপতা
+abstracted:JJ	অন্যমনস্ক
+abyssinnian:NP	আবিসিনিয়া দেশের লোক
+adventurer:NN	দুঃসাহস
+adventurer:NN	বিপদজনক
+above:RB	উর্দ্ধে
+above:RB	অধিক
+abstinenee:NN	সংযম
+abstinenee:NN	উপরতি
+agenda:NN	সভায় আলচ্য বিষয় সূচি
+aggrieve:NN	কষ্ট দেওয়া
+acrimonious:JJ	উগ্র
+acrimonious:JJ	তীব্র
+absolutely:RB	বিনা শর্তে
+absolutely:RB	নিশ্চিতরূপে
+agility:NN	তৎপরতা
+acacia:NN	বাবলা জাতীয় গাছ
+able:JJ	যোগ্য
+able:JJ	সামর্থ
+abstruse:JJ	দূর্বোধ্য
+abstruse:JJ	জটিল
+abstruse:JJ	নিগূঢ়
+admiralty:NN	নৌ-বিভাগ
+admiralty:NN	প্রসাশন কার্যালয়
+adorable:JJ	ভালবাসার যোগ্য
+abominate:VV	অত্যন্ত ঘৃণা করা
+addict:NN	আসক্ত করা
+aborasion:NN	মাজন
+aborasion:NN	ঘর্ষণ
+abjuration:NN	শপথ পূর্বক পরিত্যাগ
+absolution:NN	দন্ড হতে অব্যহতি
+absolution:NN	নিষ্কৃতি
+credibility:NN	বিশ্বাসযোগ্যতা
+icy:JJ	বরফ-শীতল
+boon:JJ	অনুগ্রহ
+agility:NN	তৎপরতা
+alluring:JJ	লোভনীয়
+parade:NN	কুচকাওয়াজ
+gangster:NN	গুন্ডা
+chord:NN	বাদ্যযন্ত্রের তার
+guinness:NP	গিনেস
+carnival:NP	কার্নিভাল
+guinness.book:NP	গিনেস বুক
+notable.award:NN	উল্লেখযোগ্য পূরস্কার
+parade:NN	মিছিল
+abdurrahman:NP	আব্দুর রহ্‌মান
+spunky:JJ	তেজী
+authorities:NNS	কর্তৃপক্ষ
+boom:NN	উচ্চ প্রবৃদ্ধি
+arrogance:NN	অহংকার
+photo:NN	ছবি
+mV:NP	মিলি ভোল্ট
+field:NN	ক্ষেত্র
+specific.field:NN	নির্দিষ্ট ক্ষেত্র
+recognized:JJ	পরিচিত
+alpona:NP	আলপনা
+neutral.point.of.view:NP	নিরপেক্ষ দৃষ্টিভঙ্গি
+quality:NN	গুনমান
+peanut:NN	বাদাম
+water.melon:NN	তরমুজ
+ribavirin:NP	রিবাভিরিন
+defects:NNS	খুঁত
+female.partner:NN	স্ত্রী সঙ্গী
+sheet:NN	পত্র
+typical:JJ	প্রতিরুপ
+redistributed:JJ	পুনর্বিতরিত
+copyleft:NN	কপিলেফট
+requirement:NN	প্রয়োজন
+acknowledgment:NN	কৃতজ্ঞতাস্বীকার
+gfdl:NP	জিএফডিএল
+defect:NN	খুঁত
+sections:NNS	অনুচ্ছেদ
+duct:NN	নালী
+doodle:VV	অন্যমনস্কভাবে হিজিবিজিকাটা
+glycol:NN	গ্লাইকল
+donât:VV	করো না
+free:RB	মুক্ত
+sterilizer:NN	শুদ্ধিকারক
+templates:NNS	টেমপ্লেট
+pepper:NN	মরিচ
+custom:NN	প্রথা
+genie:NN	জিন
+sharply:RB	তীক্ষ্নভাবে
+photo:NN	ফটো
+non-free:JJ	উন্মুক্ত নয় এমন
+free.content:NN	মুক্ত বস্তু
+avidly:RB	লুব্ধভাবে
+non-free.image:NN	উন্মুক্ত নয় এমন চিত্র
+pixie:NN	খুদে পরী
+policy:NN	নীতি
+press:NN	মুদ্রন
+borrowing:NN	ধার
+release:NN	মুক্তি
+reacquire:VV	পুনরায় অধিগ্রহন করা
+asymptotic:JJ	অসীমতট
+guinea:NP	গিনি
+one:CD	এক
+tremulous:JJ	কম্পিত
+vitality:NN	জীবনী শক্তি
+flow:NN	প্রবাহ
+propriety:NN	উপযুক্ত আচরন
+propriety:NN	শুদ্ধ কাজ
+amalgamate:VV	মিশ্রিত করা
+amalgamate:VV	যুক্ত হওয়া
+ailing:JJ	পীড়িত
+altitude:NN	লম্বের উচ্চতা
+allotment:NN	ভাগ
+allotment:NN	বন্টন
+allotment:NN	ভাগের অংশ
+air-mail:NN	বিমান ডাক
+alongside:IN	নিকটবর্তী
+alter:VV	ভিন্নপ্রকার হওয়া
+ambiguous:JJ	দ্ব্যর্থক
+airy:JJ	বায়ুর মতো
+aloe:NN	ঘৃতকুমারী
+aircraft:NN	উড়ো জাহাজ
+altercation:NN	বাদানুবাদ
+altercation:NN	তর্কাকর্তী
+allopath:NN	অ্যালপেথিক ডাক্তার
+alcoran:NP	কোরান
+airfield:NN	বিমান ঘাঁটি
+alack:NN	দুঃখ প্রকাশক শদ্ব বিশেষ
+alphabetic:JJ	বর্ণানুক্রম
+all-pervading:JJ	সর্বব্যাপি
+alien:NN	বিদেশী লোক
+aliment:NN	খাদ্য দ্রব্য
+allure:NN	প্রলোভিতা
+alleviation:NN	উদ্যানে বেড়াইবার পথ
+allegory:NN	রূপক
+albumen:NN	ডিম্বের শ্বেতাংশ
+aimless:NN	লক্ষ্যহীন
+ambrosia:NN	অমৃত
+ail:NN	কষ্ট পাওয়া
+all-powerful:JJ	সর্বশক্তি মান
+airliner:NN	যাত্রী বাহী বৃহৎ বিমান
+ally:NN	মৈত্রীবদ্ধ ব্যক্তি
+ally:NN	মিত্র রাষ্ট্র
+airship:NN	উড়ো জাহাজ
+almirah:NN	আলমারী
+ale:NP	মদ্য বিশেষ
+airtight:NN	বায়ুরোধী
+airborne:NN	বায়ু-বাহিত
+amalgam:NN	পারদ মিশ্রিত ধাতু
+almost:RB	অনেকাংশে
+altruist:NN	পরার্থপর ব্যক্তি
+alkali:NN	ক্ষার
+alms:NNS	ভিক্ষাদান
+alms:NNS	খয়রাত
+aide-de-camp:NN	পার্শ্বচর
+allopathy:NN	বিষম চিকিৎসা পদ্ধতি
+already:RB	ইতমধ্যে
+already:RB	ইতোপূর্বে
+allevition:NN	লাঘব
+almighty:NN	সর্বশক্তি মান
+amenability:NN	নম্রতা
+am:VBP	হই
+am:VBP	আছি
+allegorical:JJ	রূপকাত্মক
+ailent:JJ	অসুস্থতা
+airtransport:NN	বিমান পরিবহন
+ambition:NN	উচ্চাভিলাষ
+ambition:NN	উচ্চ আকাঙক্ষা
+almanac:NN	পঞ্জিকা
+amaranth:NN	কল্পিত অম্নান পুষ্প বিশেষ
+alternative:NN	বৈকল্পিক
+alternative:NN	বিকল্প স্বরুপ
+alloy:NN	সঙ্কর
+alloy:NN	মিশ্র ধাতু
+airbladder:NN	পটকা
+allay:NN	উপশম করা
+alamode:NN	ফ্যাশান দুরস্ত
+allegtion:NN	অভিযোগ
+alphabet:NN	বর্ণমালা
+alphabet:NN	অক্ষরমালা
+ameliorate:VV	উন্নতি সাধন করা
+alieantation:NN	হস্তান্তর
+aloud:RB	উচ্চ শব্দ করে
+altogether:RB	সম্পূর্নরুপে
+ameer:NN	আমীর
+albatross:NN	সামুদ্রিক পক্ষি বিশেষ
+allottee:NN	যাহাকে অংশ নির্দিষ্ট করে দেওয়া হয়
+amenable:JJ	শাসনযোগ্য
+ambidexter:NN	যার দুহাত সমভাবে কাজ করতে পারে
+airport:NN	বিমান ঘাঁটি
+aloft:RB	ঊর্ধে
+aloft:RB	উচ্চে
+aloft:RB	শূন্যে
+altercate:VV	বাদানুবাদ করা
+alcove:NP	ঘরের সমপ্রসারিত ঘেরা স্থান বিশেষ
+alsatian:NP	একজাতীয় কুকুর
+alternate:JJ	একান্তর
+alibi:NN	অপরাধ সংকট কালে অভিযুক্ত ব্যক্তির উপস্থিত না থাকার অজর
+allies:NNS	সংযোগ
+alternating:VVG	গতিবিমুখ
+amain:RB	প্রচন্ড শক্তিতে
+amain:RB	খুব তাড়াতাড়ি
+ameliorative:JJ	উন্নতি কারক
+always:RB	চিরন্তন
+alarm:NN	বিপদ সংকেত
+amen:UH	তাই হোক
+amen:UH	তথাস্তু
+all-round:JJ	চৌকস
+all-round:JJ	সর্বতোমুখী
+aloof:JJ	কিয়দ্দুরে
+also:RB	আরও
+also:RB	সেইরূপ
+alias:NN	অন্য নামে
+amaze:VV	হতবুদ্ধি করা
+allah:NP	আল্লাহ
+ambient:JJ	পরিবেষ্টনকারী
+alarmbell:NN	বিপদ সূচক ঘন্টা
+alchemy:NN	কিমিয়া
+alchemy:NN	অপরসায়ন
+alchemy:NN	মধ্য যুগের রসায়ন শাস্ত্র
+allowance:NN	ভাতা
+allowance:NN	বিশেষ সুবিধা
+all:DT	মোটের উপর
+alas:UH	হায়-হায়
+allocation:NN	বিভাজন বা বন্টন
+allopathic:JJ	অ্যালপেথি সম্বন্ধীয়
+alluvium:NN	পলিমাটি
+alms-house:JJ	অনাথাশ্রম
+alleviate:VV	লাঘব করা
+alligation:NN	একজাতীয় আমেরিকান কুমির
+allude:VV	পরক্ষভাবে উল্লেখ করা
+amateur:NN	অপেশাদার
+allusion:NN	পূর্বসূত্র
+allusion:NN	প্রসঙ্গ
+amabassasor:NN	রাজদূত
+amabassasor:NN	রাষ্ট্রদূত
+allocate:VV	নির্দিষ্ট করে ভাগ করে দেওয়া
+allege:VVP	অভিযোগ করা
+along:IN	কেবল
+along:IN	একাকী
+along:IN	নিঃসঙ্গ
+aligm:NN	শ্রেণী বদ্ধ হয়ে দাড়ানো
+alarmclock:NN	ঘুম ভাঙ্গানো ঘড়ি
+algebraist:NN	বীজগণিত বেত্তা
+alarmist:NN	যে ব্যক্তি সামান্য কারণে আতঙ্কের সৃষ্টি করে
+ambergris:NN	তিমি মাছের তন্ত্রজাত
+ambergris:NN	সুগন্ধি দ্রব্যবিশেষ
+alarming:VVG	উদ্বেগ জনক
+amazon:NN	আমাজন
+alfresco:NN	মুক্ত বায়ুতে
+amble:VV	কদমে চলা
+amble:VV	ধীরে চলা
+allegiance:NN	আনুগত্য
+airconditioned:JJ	শীতাতপ নিয়ন্ত্রিত
+alight:NN	নেমে আসা
+allied:VVN	সন্ধিবদ্ধ
+allied:VVN	সম্মিলিত
+amelioration:NN	উনতি
+amelioration:NN	উন্নতি সম্পাদান
+almsman:NN	ভিক্ষোপজীবি
+airraid:NN	বিমান আক্রমণ
+allergy:NN	রোগ বিশেষ
+alternation:NN	পালাক্রমে সংঘটন
+alienator:NN	সম্পত্তি হস্তান্তরকারী
+alleged:VVN	অভিযোগে বর্ণিত
+airpump:NN	বায়ু নিষ্কাশন যন্ত্র
+ambitious:JJ	উচ্চাভিলাষী
+ambitious:JJ	দূরাকাংক্ষী
+aligment:NN	এক সরল রেখায় বিনস্ত করণ
+air-base:NN	বিমান ঘাটি
+alienate:NN	শক্ত বা অধিকার হস্তান্তর করা
+alpha:JJ	গ্রীক বর্নমালার প্রথম অক্ষর
+airing:VVG	খোলা বাতাসে বেড়ানো
+alacrity:NN	তৎপরতা
+album:NN	ফটোগ্রাফ
+alga:NN	সমুদ্র শৈবাল
+altemeter:NN	উচ্চতাপমাপক যন্ত্র
+alliance:NN	মৈত্রী
+alliance:NN	সন্ধি
+alliance:NN	কুটুম্বিতা
+alike:NN	সদৃশ
+alike:NN	অনুরূপ
+alteration:NN	পরিবর্তন করা
+algebra:NN	বীজগণিত
+amatory:JJ	প্রণয় সংক্রান্ত
+amazement:NN	বিস্ময়
+allegoric:JJ	রূপকাত্মক
+albeit:NN	যদিও
+although:IN	সত্ত্বেও
+alternatively:RB	বিকল্পরুপে
+alkaline:NN	ক্ষারীয়
+alderman:NP	পৌর মুক্ষ্য
+airdrome:NN	বিমান ঘাঁটি
+allot:VV	বন্টন করা
+allot:VV	নিদিষ্ট করে দেওয়া
+alimentary:NN	খাদ্য সংক্রান্ত
+amber:JJ	তৈলস্ফটিক
+altruism:NN	পরার্থবাদ
+airhostess:NN	বিমান সেবিকা
+alpine:NP	আল্পস
+alluring:JJ	মুগ্ধকর
+alum:NN	ফট্‌কিরি
+alumnus:NN	প্রাক্তন ছাত্র
+alumnus:NN	প্রাক্তনী
+ambit:NN	বেষ্টনী
+ambit:NN	চৌহদ্দি
+amanuensis:NN	শ্রুতিলিপিকর
+amanuensis:NN	শ্রুতি লেখক
+airmarshal:NN	বিমান বাহিনীর উচ্চ পদস্থ কর্মচারী বিশেষ
+ambush:NN	ওতপাতা
+alliteration:NN	অনুপ্রাস
+airpower:NN	বিমান শক্তি
+akim:NN	এক বংশজ
+akimbo:NP	কোমরে হাত দিয়ে ও কুনই বেড় করে দাড়ানো
+al-house:NN	মদের দোকান
+alchol:NN	বিশুদ্ধ সুরাসার
+amalgamation:NN	মিশ্রণ
+airgun:NN	বন্দুক
+altar:NN	পূজাবেদী
+amass:VV	সঞ্চয় করা
+amass:VV	জমান
+alive:NN	জীবন্ত
+air-force:NN	বিমান বাহিনী
+aluminium:NN	অ্যলুমিনিয়াম
+airway:NN	যে পথে নিয়মিত বিমান চলাচল করে
+cataclysm:NN	মহাপ্লাবন
+cataclysm:NN	প্রলয়
+cataclysm:NN	ভীষণ ভূমিকম্প
+cataclysm:NN	মহাযুদ্ধ
+casque:NN	শিরস্ত্রাণ
+cataract:NN	জলপ্রপাত
+cataract:NN	চোখের ছানিরোগ
+catechu:NN	খয়ের
+caste:NN	যবর্ণ
+caste:NN	জাতি
+catholic:JJ	ক্যাথলিক
+catholic:JJ	ধর্মমতাবলম্বী
+catholic:JJ	সার্বজনীন
+cast:NN	নিক্ষেপ করা
+cast:NN	ছাচে ঢালা
+carving:VVG	খোদাই করা কোন জিনিস
+carving:VVG	খোদাই করা মূর্তি
+cask:NN	তরল জিনিস রাখিবার পিপা
+cashier:NN	কোষাধ্যক্ষ
+cashier:NN	খাজাঞ্চী
+castor-oil:NN	রেড়ির তেল
+category:NN	শ্রেণী
+category:NN	বিভাগ
+catarrh:NN	সর্দি
+cholera:NN	ওলাউঠা
+cholera:NN	কলেরা
+casting:VVG	নিক্ষেপণ
+christ:NN	যীশুখ্রীষ্ট
+causative:JJ	কারণ সূচক
+causative:JJ	নিজন্ত
+cauterization:NN	কস্টিক বা উত্তপ্ত লৌহ দ্বারা দহন
+caw:VV	কাকের ডাক
+celestial:JJ	আকাশ-সম্বন্ধীয়
+celestial:JJ	অত্যন্ত সুন্দর
+celebrity:NN	যশঃখ্যাতি
+ceiling:NN	ঘরের ছাদের ভিতরের দিক
+cattle:NNS	গৃহপালিত পশু
+cattle:NNS	গবাদি পশু
+cavalier:JJ	অশ্বারোহী সৈনিক
+cavalier:JJ	শিষ্টাচারী ভদ্রলোক
+cavalier:JJ	বীর
+catheter:NN	মূত্র নিষ্কাশনের নল বিশেষ
+choir:NN	গির্জার গায়কদল
+catechetic:JJ	প্রশ্নোত্তর-সম্বন্ধীয়
+choke:VV	শ্বাসরোধ করা
+choke:VV	অবরোধ করা
+choke:VV	ব্যাহত করা
+cathedral:NN	বিশপের অধীন গির্জা
+cause:NN	উৎপাদক
+cause:NN	নিমিত্ত
+cavity:NN	গহ্বর
+cavity:NN	গর্ত
+cavity:NN	খোল
+causeway:NN	পাথরে বাঁধানো উঁচু রাস্তা
+casket:NN	মণি-রত্নাদি রাখিবার ছোট বাক্স
+choosy:NN	খুঁতখুঁতে
+cartridge:NN	বন্দুকের টোটা
+cartridge:NN	গুলি
+cellophane:NN	সেলোফেন
+cellophane:NN	স্বচ্ছ কাগজ
+caution:NN	সতর্কীকরণ
+choice:NN	পছন্দ
+choice:NN	মনোনয়ন শক্তি
+choice:NN	বাছাই করা বস্তু
+cast-iron:NN	ঢালাই লোহা
+carve:VV	খন্ড খন্ড করিয়া কাটা
+carve:VV	ক্ষোদিত করা
+caterer:NN	খাদ্য সরবরাহকারী
+cavil:NN	তুচ্ছ আপত্তি
+casting-net:JJ	খেপলা জাল
+catching:VVG	সংক্রামক
+catching:VVG	মুগ্ধকর
+catching:VVG	আকর্ষণীয়
+celibacy:NN	অবিবাহিত অবস্থা
+celibacy:NN	কৌমার্য
+chop:VV	টুকরো করে বা কুচি কুচি করে কাটা
+cauterize:VV	উত্তপ্ত শলাকা দ্বারা পোড়ান
+cateche:NN	প্রশ্নোত্তর-সম্বন্ধীয়
+cementation:NN	সিমেন্ট দ্বারা সংযোজন
+cathay:NP	চীনের প্রাচীন নাম
+cassia:NN	দারুচিনি বিশেষ
+casual:JJ	দৈবাৎ সংঘটিত
+casual:JJ	সাময়িক
+casual:JJ	অমনোযোগী
+casualty:NN	দুর্ঘটনা
+casualty:NN	দুর্ঘটনায় হতাহত ব্যক্তি
+casualty:NN	যুদ্ধে হতাহত ব্যক্তি
+chord:NN	ছিলা
+chord:NN	জ্যা
+celler:NN	ভূগর্ভস্থ ভান্ডার
+celler:NN	কুঠুরি
+celerity:NN	বেগ
+celerity:NN	ক্ষিপ্রতা
+categorical:JJ	বিভাগীয়
+categorical:JJ	শ্রেণী সম্বন্ধীয়
+categorical:JJ	স্পষ্ট
+categorical:JJ	শর্তহীন
+categorical:JJ	পরম
+categorical:JJ	চরম
+catter:NN	গাড়োয়ান
+catchy:JJ	চিত্তাকর্ষক
+catchy:JJ	সহজে ধরা যায় এমন
+catchy:JJ	প্রতারণামূলক
+cash-book:JJ	রোকড়
+cash-book:JJ	জমা খরচের খাতা
+choose:VV	বাছাই করা
+choose:VV	পচন্দ করা
+choose:VV	নির্বাচন করা
+cave:NN	গহ্বর
+cadaverous:JJ	মড়ার মত ফ্যাকাসে
+cadaverous:JJ	বিকৃত
+cater:VVP	খাদ্য সরবরাহ করা
+cease:VV	শেষ হওয়া
+cease:VV	শেষ করা
+cease:VV	ক্ষান্ত হওয়া
+quire:NN	গির্জার গায়কদল
+cell:NN	ক্ষুদ্র কক্ষ
+cash-register:JJ	প্রাপ্ত টাকাকড়ি লিপিবদ্ধ করিবার যন্ত্র বিশেষ
+catch:VV	লোফা
+catch:VV	পাকড়াও করা
+catch:VV	সংক্রমিত হওয়া
+catch:VV	বিজড়িত হওয়া
+catgut:NN	তাঁত
+cartouche:NN	টোটা রাখিবার পাত্র
+catapult:VV	প্রাচীনযুগের পাথর ছুড়িবার যন্ত্র
+ceaseless:JJ	অবিরাম
+chorus:NN	গায়কদল
+cascade:NN	জলপ্রপাত
+castigate:VV	প্রহার করা
+castigate:VV	তিরস্কার করা
+castigate:VV	শাস্তি দেওয়া
+catalogue:NN	তালিকা
+caterwaul:NN	বিড়ালের ন্যায় চিংকার করা
+caterwaul:NN	শ্রুতিকটু শব্দ করা
+cartwright:NN	গাড়ি নির্মাতা
+castle:NN	দুর্গ
+castle:NN	দাবা খেলার নৌকা
+casually:RB	দৈবাৎ
+casually:RB	সাময়িকভাবে
+catholicism:NN	ক্যাথিলিক ধর্ম
+catechism:NN	প্রশ্নোত্তর দ্বারা শিক্ষাদান
+catechism:NN	সংক্ষিপ্ত ধর্মশিক্ষা
+cautious:JJ	সাবধান
+cello:NN	বেহালাজাতীয় বাদ্যযন্ত্র বিশেষ
+cellular:JJ	কোষবিশিষ্ট
+cellular:JJ	কোষীয়
+cellular:JJ	জালি
+carver:NN	মাংস-কাটা ছুরি
+carver:NN	ভাস্কর
+celebrate:VV	ধর্মানুষ্ঠান করা
+caterpillar:NN	গুটিপোকা
+caterpillar:NN	শুয়াপোকা
+cavalry:NN	অশ্বারোহী সৈন্যদল
+celery:NN	সেলেরি
+cat-eyed:JJ	বিড়ালচোখো
+cat-eyed:JJ	অন্ধকারে দেখিতে সমর্থ
+catastrophe:NN	চরম বিপর্যয়
+caustic:JJ	দগ্ধকারক
+caustic:JJ	দাহজনক
+caustic:JJ	ক্ষয়কারক
+caustic:JJ	তীব্র
+caustic:JJ	মর্মান্তিক
+pretty:JJ	মনোরম
+pretty:JJ	সুশ্রী
+pretty:JJ	আকর্ষণীয়
+bless:VV	আশীর্বাদ করা
+bless:VV	সৃষ্টিকর্তার অনুগ্রহ প্রর্থনা করা
+pretty:JJ	মনোরম
+pretty:JJ	সুদৃশ্য
+spree:NN	আনন্দময় ক্রীড়াকৌতুক
+graybeard:NN	বৃদ্ধলোক
+spree:NN	খুশির জোয়ার
+ornate:JJ	সুসজ্জিত
+sixty:CD	ষাট
+partly:RB	আংশিক ভাবে
+stonework:NN	পাথরের কাজ
+carving:NN	ভাস্কর্য
+mourning:NN	শোক
+lintels:NNS	চৌকাঠ
+interlude:NN	গর্ভাভিনয়
+bat:NN	বাদুড়
+leash:VV	নিয়ন্ত্রণ করা
+yusuf:NP	ইউসুফ
+craziness:NN	পাগলামি
+gather:VVP	একত্রিত করা
+bagasse:NN	আঁখের ছোবরা
+edifice:NN	অট্টালিকা
+mercy:NN	মাফ দেওয়া
+wikimedia.foundation:NP	উইকিমিডিয়া ফাউন্ডেশন
+wikimedia:NN	উইকিমিডিয়া
+allegiance:NN	আনুগত্ত
+divorce:NN	বিবাহ বিচ্ছেদ
+tania:NP	তানিয়া
+today:NN	আজ
+iraqi:JJ	ইরাকী
+grieve:VV	মর্মাহত হওয়া
+war-torn:JJ	যুদ্ধ বিদ্ধস্ত
+abysm:NN	খাদ
+shoes:NNS	জুতা
+engulf:VV	গ্রাস করা
+sunni:NP	সুন্নী
+fortune:NN	দৈব্য
+prison:NN	জেলখানা
+anticipate:JJ	আশা করা
+far:RB	দুর
+contract:NN	চুক্তি
+legitimate:JJ	বৈধ
+conflict:NN	সংঘাত
+custom:RB	নিয়ম
+custom:RB	রীতি
+unlock:NN	খোলা
+security:NN	নিরাপত্তা
+certification:NN	সত্যতা অনুমোদন
+certification:NN	প্রমানীকরন
+president.bush:NP	রাষ্ট্রপতি বুশ
+anytime:RB	যে কোনো সময়
+disobey:VV	নির্দেশ না মানা
+disobey:VV	অমান্য করা
+mice:NNS	ইঁদুর
+consensus:NN	ঐকমত্য
+pillar:NN	স্তম্ভ
+fourth.pillar:NN	চতুর্থ স্তম্ভ
+with:IN	সহিত
+regarding:IN	সম্পর্কে
+coverage:NN	প্রতিবেদন প্রচার
+verifiability:JJ	যাচাইযোগ্যতা
+mere:JJ	সাধারণ
+technical:JJ	কৌশল
+personal.computer:NN	ব্যাক্তিগত কম্পিউটার
+stand-alone:JJ	একক
+stand-alone.article:NN	একক নিবন্ধ
+satisfy:VV	সন্তুষ্ট করা
+integrity:NN	শুদ্ধতা
+reliable.source:NN	নির্ভরযোগ্য উৎস
+affiliated:JJ	অধিভুক্ত
+self-publicity:JJ	আত্ম প্রচারনা
+self-published.material:NN	স্বপ্রকাশিত বস্তু
+self-published:JJ	স্বপ্রকাশিত
+autobiographies:NNS	আত্মজীবনী
+presumed:JJ	মানিত
+presumption:NN	অনুমান
+solidarity:NN	সংহতি
+poor:JJ	গরীব
+inherited:JJ	উত্তরাধিকার সুত্রে প্রাপ্ত
+pillar:NN	থাম
+failure:NN	অকৃতকার্যতা
+colon:NN	কোলন
+mediawiki:NP	মিডিয়াউইকি
+prefix:NN	উপসর্গ
+encyclopedia:NP	বিশ্বকোষ
+namespace:NN	নামস্থান
+fain:RB	সানন্দে
+faint:JJ	নিস্তেজ
+quelling:NN	দমনকরা
+overarching:NN	খিলান
+aback:RB	বিস্মিত
+aback:RB	আশ্চার্যান্বিত
+substantial.coverage:NN	প্রামান্য প্রতিবেদন
+abaddon:NN	নরক
+relative:JJ	আপেক্ষিক
+abashed:JJ	অপ্রতিভ
+abashed:JJ	হতভম্ব
+speculation:NN	ধারণা
+substantiate:VV	প্রমান সাবুদ করা
+continual:JJ	অবিরাম
+abject:JJ	হীন
+liveliness:NN	সজীবতা
+halim:NP	হালিম
+conscience:NN	বিবেক
+grateful:JJ	কৃতজ্ঞ
+rabbits:NNS	খরগোশ
+commodity:NN	পণ্য
+unacceptable:JJ	অগ্রহনযোগ্য
+continual.coverage:NN	অবিরাম প্রতিবেদন
+postage:NN	ডাকখরচ
+stamp:NN	ডাক টিকিট
+idol:NN	প্রতিমা
+insufficiency:NN	অপর্যাপ্ততা
+negligence:NN	অবহেলা
+toxic.waste:NN	বিষাক্ত বর্জ্য
+waste:NN	বর্জ্য
+toxic:JJ	বিষাক্ত
+manmade:NN	মানব সৃষ্ট
+heroic:JJ	বীরোচিত
+pancreas:NN	অগ্নাশয়
+memory:NN	স্মৃতি
+musk:NN	মুখোশ
+portability:NN	বহনযোগ্যতা
+distinct:JJ	আলাদা
+re-use:VV	পুনর্ব্যবহার করা
+dictation:NN	আদেশ
+password:NN	সাঙ্কেতিক শব্দ
+password:NN	গুপ্তমন্ত্র
+selfishness:NN	স্বার্থপরতা
+unhesitatingly:RB	অসংকোচে
+lady:NN	গৃহিণী
+lady:NN	পত্নী
+rift:NN	ফাটল
+stab:VV	ছুরিকাঘাত করা
+geology:NN	ভূতত্ত্ব
+distort:VV	বিকৃত করা
+beset:JJ	ঘেরাও করা
+beset:JJ	চারদিক থেকে অবরোধ করা
+replaceable:JJ	প্রতিস্থাপনযোগ্য
+bough:NN	গাছের বড় ডাল
+commissar:NN	কমিসার
+behold:VV	দেখা
+jubilant:JJ	উল্লসিত
+ape:NN	বন মানুষ
+awareness:NN	সচেতনতা
+jubilant:JJ	বিজয়োল্লসিত
+jubilant:JJ	আনন্দগর্বে মত্ত
+cockroach:NN	তেলাপোকা
+emu:NN	এমু
+choirs:NNS	গির্জার গায়কদল
+oaf:NN	বোকা লোক
+unregulated:JJ	অনিয়ন্ত্রিত
+uploader:NN	আপলোডকারী
+subservient:JJ	অধীন
+metabolic:JJ	বিপাকীয়
+skeptical:JJ	অবিশ্বাসী
+quark:NN	কোয়ার্ক
+stub:NN	অসম্পূর্ণ
+degradation:NN	অবনমন
+vacation:VVP	অবকাশ যাপন
+tag:NN	ট্যাগ
+infringements:NN	বিধিলঙ্ঘন
+unfamiliar:JJ	অপরিচিত
+refund:VV	ফিরিয়ে দেওয়া
+confusing:JJ	বিভ্রান্তকর
+courteous:JJ	নম্র
+creator:NN	সৃষ্টিকারী
+prior:JJ	আগের
+consolidation:NN	দৃঢ়করণ
+perceives:VVZ	উপলব্ধি করা
+short:JJ	সংক্ষিপ্ত
+dispute:NN	বিতর্ক
+unfree:JJ	মুক্ত নয় এমন
+non-free:JJ	মুক্ত-নয় এমন
+speedily:RB	দ্রুতভাবে
+redundant:JJ	অনাবশ্যক
+reasonable.doubt:NN	যুক্তিসম্মত সংশয়
+redundant:JJ	প্রয়োজনের অতিরিক্ত
+redirected:JJ	পুনর্নির্দেশীত
+suspected:JJ	সন্দেহজনক
+good-faith:NN	ভাল বিশ্বাস
+voyage:NN	সমুদ্রযাত্রা
+perforated:JJ	ছিদ্র যুক্ত
+violations:NNS	উলঙ্ঘন
+copyright:NN	কপিরাইট
+politician:NN	রাজনীতিবিদ
+politician:NN	রাজনীতিবিদ
+reasonable:JJ	যুক্তিসম্মত
+commons:NP	কমনস
+appropriately:RB	সঠিকভাবে
+method:NN	পদ্ধতি
+case:NN	ঘটনা
+plain-english:JJ	সরল ইংরেজি
+teheran:NP	তেহেরান
+najaf:NP	নাজাফ
+Istambul:NN	ইস্তাম্বুল
+shamim:NP	শামীম
+name:NN	নাম
+fundamentalism:NN	মৌলবাদ
+religious.fundamentalism:NN	ধর্মীয় মৌলবাদ
+tamim:NP	তামীম
+tensile:JJ	নমনীয়
+mahfuz:NP	মাহফুজ
+underage:JJ	অপ্রাপ্তবয়স্ক
+option:NN	পছন্দ
+kitchen:NN	রান্নাঘর
+childish:JJ	ছেলেমি
+cctld:NP	সিসিটিএলডি
+elasticity:NN	নমনীয়তা
+objection:NN	আপত্তি
+generally:RB	সাধারনভাবে
+territory:NN	অঞ্চল
+imply:VV	ইঙ্গিত করা
+strangle:RB	শ্বাসরোধ করা
+yoke:NN	জোয়াল
+acts:NNS	আইন
+asaduzzman:NP	আসাদুজজামান
+prone:JJ	প্রবণ
+judgment:NN	বিচার
+third-party:JJ	তৃতীয়-পক্ষ
+partner:NN	সঙ্গী
+paddle:NN	বৈঠা
+academic:JJ	শিক্ষায়তনিক
+exhaustive:JJ	সম্পূর্ণ
+common.sense:NN	সাধারণ জ্ঞান
+scholarly:JJ	বিদ্বজ্জনোচিত
+verdict:NN	বিধান
+verdict:NN	বিচারক এর রায়
+shipbuilding:NN	জাহাজ নির্মাণ
+bioengineer:NN	জৈব প্রযুক্তিবিদ
+interpreted:JJ	ব্যাক্ষ্যায়িত
+following:JJ	পরবর্তী
+file:NN	ফাইল
+with:IN	সঙ্গে
+indispensable:JJ	অপরিহার্য
+insurgency:NN	বিদ্রোহ
+birds:NNS	পাখি
+excessive:JJ	অতিরিক্ত
+host:NN	আমন্ত্রক
+unencyclopedic.material:NN	অবিশ্বকোষীয় উপাদান
+evict:VV	আইন বলে উচ্ছেদ করা
+private.photos:NNS	ব্যক্তিগত চিত্র
+forcibly:RB	বলপ্রয়োগ করে
+exact.number:NN	প্রকৃত সংখ্যা
+morichjhanpi:NP	মরিচঝাঁপি
+deaths:NNS	মৃত্যু
+intensities:NNS	তীব্রতা
+fennel:NN	মৌরী
+fact-checking:NN	তথ্য পরীক্ষা
+material:NN	বিষয়বস্তু
+always:RB	সর্বদা
+intend:VV	উদ্দেশ্য থাকা
+indispensable.part:NN	অপরিহার্য অংশ
+purchaser:NN	ক্রেতা
+specific:JJ	নির্দিষ্ট
+citation:NN	উদ্ধৃতি
+proportion:NN	অনুপাত
+consolation:NN	সান্তনা
+caste-related:JJ	জাতপাত সম্পর্কিত
+consensus:NN	ঐক্যমত
+tribe:NN	উপজাতি
+adivasis:NPS	আদিবাসী
+scientifically:RB	বৈজ্ঞানিকভাবে
+kick:VV	লাথি মারা
+al-karim:NP	আল কারীম
+lightsome:JJ	আলোকিত
+ethic:NN	নীতিশাস্ত্র
+smell:NN	গন্ধ
+substantive:JJ	স্বতন্ত্র
+volition:NN	ইচ্ছা
+ruined:JJ	ধ্বংসপ্রাপ্ত
+synchronization:NN	সমন্বয়সাধন
+judged:JJ	বিচারিত
+mujibur:NP	মুজিবুর
+rahman:NP	রহমান
+gopalganj:NP	গোপালগঞ্জ
+sheikh.mujibur.rahman:NP	শেখ মুজিবুর রহমান
+sheikh:NP	শেখ
+provincial:JJ	প্রাদেশিক
+provincial.capital:NN	প্রাদেশিক রাজধানী
+diktat:JJ	নির্দেশনা
+shouting:NN	চিৎকার
+rabbit:NN	খারগোশ
+player:NN	চালক
+just:RB	সঠিক
+squirrel:NN	কাঠবিড়ালী
+impure:JJ	দূষিত
+just:RB	মাত্র
+medium-sized:JJ	মাঝারি-আকারের
+squirrels:NNS	কাঠবিড়ালী
+snake:NN	সাপ
+consuming:NN	খাওয়া
+edible:NN	ভক্ষ্য
+amazed:JJ	আশ্চর্য হওয়া
+inedible:JJ	অখাদ্য
+fines:NNS	জরিমানা
+shivering:NN	কাঁপা
+serene:JJ	শান্ত
+harvest:NN	ফসল ফলানো
+yuvraj:NP	যুবরাজ
+unconfirmed:JJ	অসমর্থিত
+ice:NN	বরফ
+propaganda:NN	প্রচার
+affinity:NN	অনুরাগ
+neatness:NN	পরিচ্ছন্নতা
+landowner:NN	জায়গার মালিক
+terminal:JJ	প্রান্তিক
+useless:JJ	অকেজো
+yuletide:NN	বড়দিনের উৎসব
+information:NN	অর্থবহ তথ্য
+department:NN	দপ্তর
+community:NN	সম্প্রদায়
+asshole:NN	চরম গর্দভ
+wiring:NN	ওয়ারিং
+caterpillar:NN	শুঁয়োপোকা
+new.insights:NNS	নতুন পরিজ্ঞান
+insight:NN	পরিজ্ঞান
+tidbit:NN	জনশ্রুতির মুখোরচক অংশ
+fuck:NN	যৌনসঙ্গম
+groundless:JJ	ভিত্তিহীন
+centric:JJ	কেন্দ্রিক
+thorn:NN	কাঁটা
+thorn:NN	কন্টক
+Sadat:NP	সাদাত
+lousy:JJ	উকুনময়
+nasir:NP	নাসির
+camel:NN	ঊট
+stipulate:VV	শর্তাধীন উপস্থাপনা করা
+cleanup:NN	পরিষ্করণ
+copyrighted:VV	কপিরাইট যুক্ত
+sterile:JJ	নিঃসন্তান
+sterile:JJ	বাঁঝা
+berth:NN	রেলের কামরায় শয়নস্থান
+tenth:NN	দশম
+rahu:NP	রাহু
+mukhi:NP	মুখি
+disease:NN	রোগ
+pulsation:NN	ধুকধুকানি
+profitable:JJ	লাভজনক
+sutrapur:NP	সূত্রাপুর
+jagannath:NP	জগন্নাথ
+gibberish:NN	হ-য-ব-র-ল
+jagannath.university:NP	জগন্নাথ বিশ্ববিদ্যালয়
+final.year:NN	শেষ বর্ষ
+goods:NN	সামগ্রী
+purely:RB	শুদ্ধ ভাবে
+poorly:RB	পারিপাট্যহীন ভাবে
+offices:NNS	দপ্তব়
+screed:NN	লেখা
+hoax:NN	চালাকি
+hoaxes:NNS	চাতুরী
+fictional:JJ	কাল্পনিক
+chatradal:NP	ছাত্রদল
+poor:JJ	পারিপাট্যহীন
+b.n.p:NP	বি.এন.পি
+nasir.uddin.sarder:NP	নাসির উদ্দিন সরদার
+chloride:NN	ক্লোরাইড
+known.as:NN	পরিচিত
+sodium:NN	সোডিয়াম
+risible:JJ	হাস্যকর
+nebulous:JJ	কুয়াশাচ্ছন্ন
+generous:JJ	উদার
+generous:JJ	মহানুভব
+eighteen:CD	আঠেরো
+rupee:NN	রুপি
+seventeen:CD	সতেরো
+intonation:NN	কথা বলার সময় কন্ঠস্বরের ওজনের উত্থান-পতন
+intonation:NN	স্বরভেদ
+sliver:NN	রূপা
+twisting:NN	পাকানো
+rupee:NN	টাকা
+twenty-one:NN	একুশ
+doctor:NN	ডাক্তার
+doctor:NN	চিকিৎসক
+untagged:JJ	ট্যাগ-বিহীন
+false.case:NN	মিথ্যা মামলা
+savar:NP	সাবর
+botanist:NN	উদ্ভিদবিজ্ঞানী
+sophisticated:JJ	সুক্ষ্ন
+nag:NP	নাগ
+sophisticated:JJ	অপ্রকৃত
+sophisticated:JJ	কৃত্রিম
+bangladesh:NN	বাংলাদেশ
+spill:VV	পতন
+useless:JJ	অর্থহীন
+soiled:JJ	জমাট
+go:NN	যাওয়া
+indication:NN	ইঙ্গিত
+guidelines:NNS	নীতি নির্দেশাবলী
+emergency:JJ	জরুরী
+result:NN	ফলাফল
+footage:NN	ফুটের মাপে দৈর্ঘ্য
+substantiate:VV	প্রমাণ করা
+substantiate:VV	সমর্থন করা
+uncombed:JJ	না আচড়ানো
+exploding:VV	বিস্ফোরিত করা
+belt:NN	বন্ধনী
+silver:NN	রজত
+hungry:JJ	ক্ষুধার্ত
+work:NN	ক্রিয়া
+bilayet:NP	বিলায়েত
+praising:VVG	গুন কীর্তন করা
+autobiography:NN	আত্নজীবনী
+safeguard:VV	সুরক্ষিত করা
+gaza.strip:NP	গাজা ভূখন্ড
+israeli:JJ	ইজরায়েলী
+corpse:NN	লাশ
+very.firm:NN	খুব দৃঢ়
+project.manager:NN	প্রকল্প ম্যানেজার
+parade:NN	কুচকাওয়াজ
+umbrella:NN	ছাতা
+spunky:JJ	তেজী
+living:JJ	জীবিত
+consequently:RB	ফলস্বরূপ
+draught:NN	বায়ু-স্রোত
+external.force:NN	বাহ্যিক বল
+net.flow:NN	সর্বমোট প্রবাহ
+conductor:NN	পরিবাহক
+net:JJ	সর্বমোট
+propriety:NN	শুদ্ধ কাজ
+charge:NN	দায়ীত্ব
+draught:NN	টানা
+draught:NN	ঔষধের মাত্রা
+draught:NN	আকর্ষণ
+draught:NN	দাবাজাতীয় খেলা
+imposing:JJ	চিত্তাকর্ষক
+imposing:JJ	দৃষ্টিনন্দন
+imposing:JJ	মনোহর
+imposing:JJ	সমৃদ্ধ
+umpire:NN	আম্পায়ার
+umpire:NN	সালিসি
+farm:NN	গোলাবাড়ি
+farm:NN	খামার
+dhanmondi:NP	ধানমন্ডি
+party:NN	অনূষ্ঠান
+bagh:NP	বাঘ
+pir.shaheb:NP	পীর সাহেব
+instead:RB	বদলে
+fructose:NN	ফলশর্করা
+rhythm:NN	ছন্দ
+apparatus:NN	যন্ত্রপাতি
+nudge:VV	হালকাভাবে ঠেলা
+enduring:JJ	স্থায়ী
+collectively:RB	সামগ্রিকভাবে
+convenience:NN	সুবিধা
+scholars:NNS	পন্ডিত
+olympic.games:NP	অলিম্পিক গেমস
+championships:NN	চ্যাম্পিয়নশিপ
+amateur:NN	অপেশাদার
+standing:NN	অবস্থান
+non-league.sport:NN	নন-লিগ স্পোর্ট
+cite:VV	উদ্ধৃতি দেওয়া
+technique:NN	কৌশল
+periodical:NN	পর্যায়ক্রমিক
+feature-length.film:NN	পূর্ণদৈর্ঘ্য চলচ্চিত্র
+parents:NNS	উর্ধ্বস্থ
+lenin:NP	লেনিন
+personality:NN	ব্যক্তিত্ব
+personalities:NNS	ব্যক্তিত্ব
+innovative:JJ	প্রবর্তক
+large:JJ	অনেক
+wife:NN	বউ
+escalate:VV	ধাপে ধাপে বৃদ্ধি পাওয়া
+escalate:VV	তীব্রতর হওয়া
+vassal:NN	প্রজা
+dictionary:NN	শব্দভাণ্ডার
+mom:NN	মা
+body:NN	শরীর
+exploitation:NN	শোষণ
+Vietnamese:JJ	ভিয়েতনাম
+konok:NP	কনক
+next.section:NN	পরবর্তী পরিচ্ছদ
+flick:NN	দপদপ করা
+free.image:NN	মুক্ত ছবি
+utility:NN	উপযোগীতা
+wherever:RB	যে কোনো জায়গায়
+wikimedia:NP	উইকিমিডিয়া
+coconut:NN	নারকেল
+subtopics:NN	উপ-বিষয়
+provision:NN	সরবরাহ
+sweetheart:NN	প্রণয়িনী
+tilt:VV	কাত হওয়া
+attribution:NN	আরোপন
+objections:NNS	আপত্তি
+females:NNS	মেয়ে
+attribute:VV	আরোপ করা
+males:NNS	ছেলে
+fridge:NN	ফ্রিজ
+restrict:VV	নিয়ন্ত্রণ করা
+appliances:NNS	সরঞ্জামাদি
+rooms:NNS	ঘর
+climate.change:NN	জলবায়ু পরিবর্তন
+appliance:NN	সরঞ্জাম
+organised:VV	আয়োজিত
+programmes:NNS	কার্যক্রম
+micro-oven:NN	মাইক্রো ওভেন
+maximum:NN	সর্বোচ্চ
+bangla:NP	বাংলা
+aloneness:NN	একাকীত্ব
+mythology:NN	পুরান
+delinquency:NN	অপকর্ম
+empirical:JJ	প্রায়োগিক
+test:NN	পরীক্ষা
+precaution:NN	সাবধানতা
+watt:NN	বিদ্যুৎশক্তির একক বা মান
+field:NN	মাঠ
+besmirch:VV	বদনাম করা
+jacket:NN	জ্যাকেট
+tits:NNS	স্তন
+brouhaha:NN	কোলাহল
+brouhaha:NN	প্রতিবাদী চিৎকার
+speedy:JJ	দ্রুত
+encomium:NN	অকুন্ঠ প্রসংশা
+producing:NN	উৎপাদন করা
+repackaging:NN	পুনরায় মোড়কে ভরা
+buyer:NN	ক্রেতা
+borrower:NN	ঋণগ্রহীতা
+investor:NN	বিনিয়োগকারী
+funniest:JJS	হাস্যকর
+vehicle:NN	যান
+pooling:NN	একত্রীকরণ
+capital:NN	পুঁজি
+biblical:JJ	বাইবেলিয়
+abraham:NP	আব্রাহাম
+promise:NN	প্রতিজ্ঞা
+conjugal:JJ	দাম্পত্য
+buttock:NN	পাছা
+wicker:NN	কঞ্চি
+outback:NN	বিচ্ছিন্ন গ্রাম্য এলাকা
+wretch:NN	হতভাগ্য লোক
+conidia:NN	কনিডিয়া
+buttress:VV	মদত দেওয়া
+dragnet:NN	টানাজাল
+haul:VV	বহন করা
+earthbound:JJ	পৃথিবী অভিমুখী
+digest:VV	হজম করা
+clerk:NN	করণীক
+incalculable:JJ	অপরিমেয়
+tablespoon:NN	বড় চামচ
+dudgeon:NN	ক্রোধ
+dudgeon:NN	অবদমিত ক্ষোভ
+transferrable:JJ	প্রেরনযোগ্য
+incalculable:JJ	অবিগণৎ
+monotonous:JJ	একঘেয়ে
+fluid:NN	তরল
+brothel:NN	পতিতালয়
+staunchly:RB	দৃঢ়ভাবে
+abeam:RB	জাহাজের দৈর্ঘ্যের সমকোণে
+plow:VV	উলটানো
+palazzo:NN	নজরকারা দালানকোঠা
+congee:NN	চালের পায়েস
+ruleset:NN	নীতিবিন্যাস
+synopsis:NN	সারাংশ
+foundation:NN	প্রতিষ্ঠান
+baboon:NN	বেবুন
+uploaded:JJ	আপলোডকৃত
+adventurer:NN	অভিযাত্রী
+disagreement:NN	অনৈক্য
+dispute:NN	সংঘাত
+resolution:NN	নিরসন
+jaguar:NN	জাগুয়ার
+pollute:VV	দূষিত করা
+koala:NN	কোয়ালা
+educational:JJ	শিক্ষা সংক্রান্ত
+pig:NN	শূকর
+animals:NNS	প্রাণী
+pigs:NNS	শূকর
+suidae:NP	সুইডে
+everyday:JJ	প্রাত্যহিক
+boar:NN	বন্য শূকর
+parlance:NN	কথাবার্তা
+virulence:NN	তীব্রতা
+flounder:VV	হাক পাক করা
+cocaine:NN	কোকেন
+llama:NN	লামা
+hardware:NN	হার্ডওয়্যার
+political.science:NN	রাষ্ট্রবিজ্ঞান
+columbia:NP	কলাম্বিয়া
+harvard.law.school:NP	হার্ভার্ড ল স্কুল
+senator:NN	সেনেট সদস্য
+sue:NN	আদালতে মামলা করা
+references:NNS	তথ্যসূত্র
+huddle:VV	গাদাগাদী করে থাকা
+cholera:NN	কলেরা
+deferred:JJ	বিলম্বিত
+year:NN	বছর
+preservative:JJ	সংরক্ষক
+pulp:NN	মন্ড
+production:NN	উৎপাদন
+soaps:NNS	সাবান
+fabric:NN	কাপড়
+worthy:JJ	যোগ্য
+topics:NNS	বিষয়বস্তু
+dependent:JJ	আশ্রিত
+notable:JJ	উল্লেখযোগ্য
+notice:NN	বিজ্ঞপ্তি
+merit:NN	যোগ্যতা
+merits:NNS	যোগ্যতা
+presume:VV	ধরে নেওয়া
+trivial:JJ	সামান্য
+promo:NN	প্রচারণা
+substantial:JJ	প্রামান্য
+faint:JJ	ক্ষীণ
+pillar:NN	অবলম্বন
+infringement:NN	বিধিলঙ্ঘন
+narrowly:RB	অল্পের জন্য
+word:VV	শব্দে প্রকাশ করা
+reputation:NN	খ্যাতি
+congruent:JJ	সমাপতিত
+pageantry:NN	চমকপ্রদ
+citywide:JJ	নগরব্যপী
+synchronus:NN	যুগপৎ
+snakes:NNS	সাপ
+communism:NN	বামপন্থা
+prowess:NN	দক্ষতা
+skills:NNS	দক্ষতা
+routine:JJ	স্বাভাবিক
+use:NN	ব্যবহার
+shaded:JJ	প্রচ্ছায়িত
+license:NN	লাইসেন্স
+though:RB	যদিও
+photographer:NN	চিত্র গ্রাহক
+whenever:RB	যখনই
+fueloil:NN	জ্বালানী তেল
+geological:JJ	ভূতাত্ত্বিক
+salauddin:NP	সালাউদ্দিন
+laxmipadua:NP	লক্ষীপদুয়া
+salinity:NN	লবণতা
+sixteen:CD	ষোল
+nineteen:CD	উনিশ
+halcyon:NN	মাছরাঙা
+deserve:VV	যোগ্য হওয়া
+horseman:NN	ঘোড়সওয়ার
+admiral:NN	নৌ-সেনাপতি
+ihtimam:NP	ইহতিমাম
+isfahan:NP	ইসফাহান
+gifts:NNS	উপহার
+argue:VV	যুক্তি দেখানো
+argue:VV	বাদানুবাদ করা
+skirmishing:NN	দুই দলের মধ্যে লড়াই
+excavation:NN	খনন
+proclaim:VV	মতপ্রদান করা
+realistic:JJ	বাস্তবসম্মত
+relaxation:NN	অবকাশ যাপন
+willing:JJ	ইচ্ছুক
+watermelon:NN	তরমুজ
+promising:JJ	আশাপ্রদ
+promising:JJ	অঙ্গীকারপূর্ণ
+porn:JJ	অশ্লীল
+rigid:JJ	কঠিন
+pleat:NN	পোশাকের ভাঁজ
+pleated:JJ	পাট করা
+brainwashing:NN	মগজধোলাই
+saunf:NN	মৌরি
+aggressiveness:NN	আগ্রাসনতা
+salty:JJ	লবণাক্ত
+forborne:VV	বিরত থাকা
+charge:NN	মূল্য
+vulnerable:JJ	ভেদ্য
+derivative.works:NN	মৌলিক নয় এমন কার্যাবলী
+ambiguity:NN	দ্ব্যর্থকতা
+crow:VV	কর্কশধ্বনি করা
+high.standard:NN	উচ্চ মান
+bedrooms:NNS	শোবার ঘর
+candidates:NNS	আবেদনকারী
+standard:JJ	মান
+originator:NN	উদ্ভাবক
+trademark:NN	ট্রেডমার্ক
+polluting:JJ	দূষণকারী
+new.york.city:NP	নিউ ইযর্ক শহর
+senate:NN	সেনেট
+publications:NNS	প্রকাশনা
+size:NN	আকার
+stiff:JJ	অনমনীয়
+coalition:NN	জোট
+seawater:NN	সমুদ্রের জল
+detergent:NN	ডিটার্জেন্ট
+nonessential:JJ	অপ্রয়োজনীয়
+penthouse:NN	ঢালু আচ্ছাদন
+unencyclopedic:JJ	অবিশ্বকোষীয়
+judicial:JJ	বিচার বিষয়ক
+medication:NN	ঔষধ
+up:NN	উচ্চতর
+cuckoo:NN	কোকিল
+condiment:NN	স্বাদবর্ধক
+evaporation:NN	বাষ্পীভবন
+threshold:NN	প্রবেশদ্বার
+communicative:JJ	আলাপী
+wow:UH	চমৎকার
+irritate:VV	জ্বালাতন করা
+corny:JJ	গতানুগতিক
+corny:JJ	মামূলী
+luncheon:JJ	দুপুরের খাবার
+brilliance:NN	ঔজ্জ্বল্য
+build:VVP	তৈরি করা
+build:VVP	গড়া
+build:VVP	বানানো
+earn:VV	অর্জন করা
+earn:VV	কামানো
+mildly:RB	শান্তুভাবে
+mildly:RB	মৃদুভাবে
+weird:JJ	অদ্ভুত
+judicially:RB	আইন মাফিক
+dimwitted:JJ	কম বুদ্ধিসম্পন্ন
+dimwitted:JJ	বোকা
+crowning:JJ	সমাপ্তিসূচক
+crowning:JJ	নিখুঁৎ পর্যায়ে নিয়ে যাওয়া
+vengeance:NN	প্রতিশোধ
+vengeance:NN	প্রতিহিংসা
+idolize:VVP	আরাদ্ধ বস্তুতে পরিণত করা
+idolize:VVP	দেবতা জ্ঞানে পুজা করা
+antibody:NN	অ্যান্টিবডি
+exaggeration:NN	অতিরঞ্জন
+exaggeration:NN	অতিকথন
+abortive:JJ	ব্যর্থ
+abortive:JJ	ভন্ডুল
+abortive:JJ	অসফল
+blemish:NN	দাগ
+blemish:NN	নৈতিক ত্রুটি
+tolerable:JJ	সহনীয়
+tolerable:JJ	চলনসই
+love:NN	প্রীতি
+love:NN	স্নেহ-মমতা
+emphysema:NN	এমফিসীমা
+yodel:VV	সুইস পর্বত অভিযাত্রীদের অনুকরণে গান গাওয়া
+yodel:VV	সাঙ্গীতিকভাবে কাউকে আহ্বান জানানো
+thereto:RB	তৎপ্রতি
+thereto:RB	তৎসঙ্গে
+thereto:RB	অধিকন্তু
+contemporary:JJ	সমসাময়িক
+corniest:JJS	মামুলি
+corniest:JJS	গতানুগতিক
+enjoin:VV	আদেশ প্রদান করা
+enjoin:VV	নির্দেশ দান করা
+doom:NN	দন্ডাদেশ
+pervasiveness:NN	পরিব্যাপকতা
+ahmed.ataul.hakim:NP	আহমেদ আতাউল হাকিম
+financial.crisis:NN	অর্থনৈতিক সংকট
+nine:CD	নয়
+reliably:RB	নির্ভরযোগ্যভাবে
+individual:JJ	স্বতন্ত্র
+aims:NNS	উদ্দেশ্য
+individual.editor:NN	স্বতন্ত্র সম্পাদক
+metaphysical:JJ	অধিবিদ্যক
+websites:NNS	ওয়েবসাইট
+midlevel:JJ	মাঝারি
+reactivation:NN	পুনঃচালুকরণ
+nine:CD	নয়
+cancellation:NN	বাতিলকরণ
+registrar:NN	রেজিস্ট্রার
+registrant:NN	নিবন্ধনকারী
+patient:NN	ধৈর্য্যধারণকারী
+ebook:NN	ইলেক্ট্রনিক বই
+adventures:NNS	অভিযান
+juices:NNS	রস
+outlawed:JJ	সমাজ থেকে বহিষ্কৃত
+typical:JJ	প্রতিরুপ
+withal:RB	আরও
+withal:RB	একসঙ্গে
+voucher:NN	রসিদ
+voucher:NN	প্রমাণপত্র
+voucher:NN	প্রমাণক
+voucher:NN	ভাউচার
+wanton:JJ	খেয়ালী
+wanton:JJ	রঙ্গপ্রিয়
+wanton:JJ	অসংযত
+wanton:JJ	উচ্ছুঙ্খল
+wanton:JJ	অবাধ্য
+wanton:JJ	অকারণ
+waive:VV	অধিকার পরিত্যাগ করা
+vitality:NN	জীবনী শক্তি
+visa:NN	বিদেশে প্রবেশের অনুমতিপত্র
+waddle:NN	হেলেদুলে চলা
+youth:NN	তারুণ্য
+youth:NN	যৌবন
+x:NN	ইংরেজী বর্ণমালার চতুর্বিংশ বর্ণ
+virtually:RB	ফলতঃ
+virtually:RB	কার্যত
+wager:NN	বাজি
+wager:NN	পণ
+viscera:NNS	ভিশেরা
+viscera:NNS	অন্তর্যন্ত্র
+walnut:NN	আখরোট
+walnut:NN	আখরোট গাছ বা আখরেট ফল
+virago:NN	কলহপ্রিয় স্ত্রীলোক
+virago:NN	উগ্রচন্ড রমণী
+wrangle:VV	ঝগড়া করা
+yard:NN	এক গজ
+weapon:NN	অস্ত্রশস্ত্র
+weapon:NN	বর্ম
+whisky:NN	হুইস্কি
+whisky:NN	উগ্র মদ্যবিশেষ
+zend:NP	ইরানের প্রাচীন ভাষাবিশেষ
+visible:JJ	দৃষ্টিগোচার
+visible:JJ	সুস্পষ্ট
+wheedle:NN	নরম কথায় প্রলোভিত করা
+wish:VVP	ইচ্ছা করা
+wish:VVP	অভিলাষ করা
+vocation:NN	বৃত্তি
+vocation:NN	ব্যবসায়
+wit:NN	বোধশক্তি
+wit:NN	বুদ্ধি
+wit:NN	রসজ্ঞ ব্যক্তি বা রসিক লোক
+who:WP	কে বা কারা
+who:WP	যে বা যারা
+zone:NN	মেখলা
+zone:NN	কটিবন্ধ
+wind:NN	বাতাস
+wind:NN	হওয়া
+wheat:NN	গম
+virgin:JJ	বিশুদ্ধ
+wrench:VV	প্রচন্ড মোচড়
+wrench:VV	নাট ঘুরাবার যন্ত্র
+wrench:VV	রেঞ্চ
+wrap:VV	গুটান
+wrap:VV	ভাঁজ করা
+wrap:VV	মোড়া
+wrap:VV	ঢাকা
+whey:NN	ছানার জল
+whey:NN	ঘোল
+wire-rope:JJ	ইস্পাতের তৈরি দড়ি
+wife:NN	পত্নী
+wont:JJ	অভ্যস্ত
+walk:VV	হেঁটে বেড়ানো
+walk:VV	হাঁটানো
+whelp:NN	কুকুরছানা
+whelp:NN	সিংহ প্রভৃতি পশুর শাবক
+whelp:NN	কুকুর শাবক
+wicket:NN	দু’দিকের উইকেটের মধ্যবর্তী ঘাসে-ঢাকা জমি
+wig:NN	পরচুলা
+youthful:JJ	তারুণবয়স্ক
+virginity:NN	কুমারী অবস্থা
+warrior:NN	মহান সৈনিক
+yew:NN	ফচিরসবুজ বৃক্ষবিশেষ
+wretch:NN	হতভাগ্য লোক
+wretch:NN	দুরাত্মা
+wail:VV	বিলাপ করা
+wail:VV	হা-হুতাশ করা
+welcome:JJ	স্বাগতম
+welcome:JJ	সাদরে অভ্যর্থনা করা
+whore:NN	বেশ্যা
+whore:NN	অসতী রমণী
+war-cry:JJ	রণধ্বনি
+waylay:VV	পথে ওত পাতিয়া থাকা
+wood:NN	কাষ্ঠ
+wood:NN	বন
+wax:NN	মোম
+wiry:JJ	তারনির্মিত
+wiry:JJ	তারের মত
+wiry:JJ	মাংসপেশী বহুল
+woodpecker:NN	কাঠঠোকরা পাখি
+yuletide:NN	বড়দিনের উৎসব
+visiting:VVG	দেখা-সাক্ষাৎ সম্বন্ধীয়
+wheel:NN	চক্র
+wheel:NN	গাড়ির চাকা
+wardrobe:NN	পোশাক
+wardrobe:NN	জামাকাপড় রাখার আলমারি
+wench:NN	বালিকা
+wench:NN	যুবতী (বিশেষতঃ পল্লী বালিকা বা দাসী)
+wary:JJ	সাবধানী
+window:NN	বাতায়ন
+violence:NN	তীব্রতা
+violence:NN	প্রচন্ডতা
+violence:NN	বলপ্রয়োগ
+vintner:NN	শুঁড়ী
+whip:VV	চাবুক দিয়ে আঘাত করা
+whip:VV	বেত্রাঘাত করা
+wound:NN	ঘা
+vineyard:NN	আঙ্গুরের ক্ষেত
+vineyard:NN	দ্রাক্ষাক্ষেত্র
+waiting-room:NN	বিশ্রামাগার
+waiting-room:NN	প্রতীক্ষালয়
+wild:JJ	বুনো
+wild:JJ	প্রচন্ড
+wild:JJ	উন্মত্ত
+vulture:NN	শকুন
+vulture:NN	গৃধ্র
+zany:JJ	ভাড়
+wiring:NN	ওয়ারিং
+wiring:NN	বৈদ্যুতিক প্রবাহ ইত্যাদির জন্য তার ব্যবস্থা
+visionary:JJ	কাল্পনিক
+visionary:JJ	কল্পনাপ্রবণ
+wain:NN	গাড়ি
+wain:NN	মালবাহী-শকট
+violinist:NN	বেহালা বাদক
+whole:JJ	সম্পূূর্ণ
+whole:JJ	অখন্ড
+whole:JJ	সমগ্র
+whole:JJ	অক্ষত
+whole:JJ	অটুট
+voltage:NN	ভোল্ট একক দ্বারা পরিমিত তড়িৎ প্রবাহ
+vomit:VVP	বমি
+vomit:VVP	বমন
+way-side:JJ	রাস্তার পার্শ্ব
+yoke:NN	জোয়াল
+yule:NN	বড়দিনের উৎসব
+whine:NN	ঘ্যানঘ্যান
+whine:NN	একঘেয়ে কান্না
+zebra:NN	জেবরা
+whom:WP	যাকে
+whom:WP	যাহাকে
+whom:WP	কাকে
+whom:WP	কাহাকে
+violation:NN	অমান্য
+wind-up:VV	পরিসমাপ্তি
+wince:VV	পিছিয়ে আসা
+wince:VV	ছটফট করা
+vowel:NN	স্বরধ্বনি
+whimper:NN	প্যান প্যান করা
+whimper:NN	ঘ্যানঘ্যানানি
+wreak:VV	প্রকাশ করা কাজে পরিনত করা
+yourself:PP	স্বয়ং
+yourself:PP	আপনাকে
+yourself:PP	তুমি
+yourself:PP	তুমিই
+yourself:PP	আপনি
+yourself:PP	আপনিই
+vitreous:JJ	কাচময়
+vitreous:JJ	কাচসম্বন্ধীয়
+vitreous:JJ	কাচের তৈরি
+visard:NN	মুখোমুখি
+visard:NN	বিপরীত
+visard:NN	সামনাসামনি
+war-horse:JJ	যুদ্ধাশ্ব
+war-horse:JJ	অত্যন্ত অভিজ্ঞ ব্যক্তি
+worn:JJ	শীর্ণ
+worn:JJ	জীর্ণ
+violet:NN	বেগুণী
+violet:NN	বেগুণী রঙের ছোট ফুলবিশেষ
+voice:NN	কন্ঠস্বর
+voice:NN	মতপ্রকাশ
+yield:VV	ত্যাগ করা
+vulnerable:JJ	ভেদ্য
+vulnerable:JJ	আহত বা ক্ষত করা যায় এমন
+wan:JJ	পান্ডুবর্ণ
+wan:JJ	ফেকাশে
+wan:JJ	রোগজীর্ণ
+wan:JJ	অবসন্ন
+volt:NN	ভোল্ট
+volt:NN	তড়িৎবিভব পরিমাপের একক
+weevil:NN	শক্ত খোলা যুক্ত ছোট গুবরে পোকা বিশেষ
+wrinkle:NN	কোঁচকানো চামড়া
+wrinkle:NN	বলিরেখা
+wearing:JJ	পরিধেয়
+wednesday:NN	বুধবার
+when:WRB	কখন
+when:WRB	সে থেকে
+wont:NN	অভ্যাস
+whose:WP$	কাহার
+whose:WP$	কাহাদের
+whose:WP$	যাহার
+whose:WP$	যাহাদের
+virtuous:JJ	ধার্মিক
+virtuous:JJ	ন্যায়পরায়ণ
+virtuous:JJ	সদগুনসম্পন্ন
+wed:VVN	বিয়ে করা
+vixen:VVN	স্ত্রী-শেয়াল
+vixen:VVN	শেয়ালী
+vocative:NN	সম্বোধন পদ
+with:IN	সঙ্গে
+with:IN	সাথে
+with:IN	সহিত
+watch:VV	নিরীক্ষণ করা
+watch:VV	লক্ষ্য রাখা
+watch:VV	পাহারা দেওয়া
+vote:NN	নির্বাচন
+voluminous:JJ	বৃহদায়তন
+voluminous:JJ	বহুখন্ডে গঠিত
+wring:VV	মোচড়ানো
+wring:VV	নিংড়ান
+wring:VV	নিস্পেষণ করা
+way-in:JJ	প্রবেশ পথ
+waul:VV	বিড়ালের মত ডাকা
+vine:NN	আঙ্গুর গাছ
+vine:NN	দ্রাক্ষালতা
+xebec:NN	তিন মাস্তুলের ছোট জাহাজবিশেষ
+wrest:VV	জোর মোচড় দিয়া টানা বা ভাঙ্গা
+wrest:VV	বিকৃত করা
+worth:JJ	মূল্য
+worth:JJ	যোগ্যতা
+worth:JJ	গুরুত্ব
+wanting:JJ	অভাবপূর্ণ
+wanting:JJ	ক্রটিপূর্ণ
+zeppelin:NN	পজেপলিন
+yak:NN	চমরী গাই
+yak:NN	তিব্বতীয় গরুবিশেষ
+way:NN	উপায়
+vortex:NN	জলের ঘূণি
+vortex:NN	আবর্ত
+vortex:NN	পাক
+wick:NN	পলতে
+voluptuary:JJ	ইন্দ্রিয়পরায়ণ ব্যক্তি
+voluptuary:JJ	‌বিলাসী ব্যক্তি
+wearisome:JJ	শ্রান্তিকর
+wearisome:JJ	বিরক্তিকর
+wallet:NN	মানিব্যাগ
+wallet:NN	টাকা ও কাগজপত্র রাখার পকেট ব্যাগ
+wilderness:NN	জনহীন
+wilderness:NN	প্রান্তর
+wilderness:NN	মরুভূমি
+withhold:VV	পেছনে টেনে রাখা
+withhold:VV	সংযত করা
+withhold:VV	আটকানো
+weird:JJ	ভারী
+weird:JJ	বিরক্তিকর
+weird:JJ	দুর্বহ
+weird:JJ	প্রয়োজনীয়
+weird:JJ	গুরুত্বপর্ণ
+witness-box:NN	কাঠগড়া
+warn:VV	সতর্ক করা
+wage:VV	শুরু করা
+wage:VV	(সমর বা প্রচার অভিযান) শুরু করা
+vulgarity:NN	অশ্লীল রীতিনীতি
+vulgarity:NN	অশিষ্ট
+vulgarity:NN	অশিষ্ট আচার ব্যবহার
+word:NN	কথা
+word:NN	সংবাদ
+word:NN	প্রতিশ্রুতি
+zest:NN	স্বাদজনক বা স্বদবর্ধক বস্তু
+wallop:VV	প্রহার করা
+wean:VV	মাই ছাড়ানো
+wean:VV	বদাভ্যাস ত্যাগ করানো
+wording:NN	বাক্যে কথন
+wording:NN	বাক্যে প্রকাশের ধারা বা প্রণালী
+worsted:JJ	পশমী সূতা
+windward:RB	বায়ুর দিকে
+within:IN	ভিতরে
+within:IN	সীমার মধ্যে
+westerner:NN	পশ্চিমা লোক
+westerner:NN	পাশ্চাত্ত্যদেশীয়
+wood-cutter:JJ	কাঠুরিয়া
+wood-cutter:JJ	যে কাঠ কাঠে
+wheelbarrow:NN	এক চাকার ঠেলাগাড়ি
+width:NN	বিস্তৃতি
+width:NN	ব্যাপকতা
+winsome:JJ	চিত্তাকর্ষক
+winsome:JJ	মনোহর
+wrist:NN	কজি
+wrist:NN	মণিবন্ধ
+whelm:VV	অভিভূত করা
+wayward:JJ	একগুয়ে
+woodwork:NN	কাঠের তৈরি জিনিস
+warp:NN	মোচড়ানো
+warp:NN	তাতের টানা সুতা
+wipe:VV	মোছা
+wipe:VV	মুছে পরিস্কার করা
+voile:NN	অতি সূক্ষ্ম সূতী
+voile:NN	পশমী বা রেশমী কাপড়
+willow:NN	উইলো
+willow:NN	বৃক্ষ-বিশেষ
+wink:VV	চোখ পিটপিট করা
+wink:VV	চোখ টিপে ইশারা বা সৃঙ্কেত করা
+whart:NN	ঘাট
+whart:NN	জোটি
+voyage:NN	সমুদ্রযাত্রা
+voyage:NN	জলপথে ভ্রমণ
+yearling:JJ	এক বছর হতে দুই বছর বয়সের জন্তু
+ware:NN	পণ্য
+ware:NN	মাটি বা চীনামাটির তৈরি পাত্র
+ware:NN	দ্রব্যাদি
+wool:NN	পশম
+world:NN	পৃথিবী
+world:NN	জগৎ
+world:NN	দুনিয়া
+waist:NN	কটি
+vivacity:NN	প্রাণময়তা
+vivacity:NN	উৎফুল্লতা
+well:NN	কুয়া
+well:NN	কূপ
+weather-proof:JJ	জলবায়ু প্রতিরোধী
+vituperate:VV	নিন্দা করা
+vituperate:VV	গালাগালি দেওয়া
+wasp:NN	বোলতা
+wasp:NN	ভিমরুল
+wherry:NN	ডিঙ্গি-নৌকা
+wherry:NN	পানসি
+vindictive:JJ	প্রতিহিংসাপরায়ণ
+wealth:NN	ধন
+west:NN	পশ্চিমদিক
+west:NN	পশ্চিমদিগস্থ
+wisdom:NN	জ্ঞান
+wisdom:NN	পান্ডিত্য
+wisdom:NN	বিচক্ষণতা
+wisdom:NN	প্রজ্ঞা
+worse:JJR	আরও খারাপ
+virtue:NN	ধর্ম
+virtue:NN	সদগুণ
+virtue:NN	নৈতিক উৎকর্ষ
+word-book:JJ	যে পুস্তকে শব্দের সংগ্রহ আছে
+wrong-doing:NN	অপরাধ
+walrus:NN	সিন্ধুঘোটক
+walrus:NN	সামুদ্রিক প্রাণী বিশেষ
+waiter:NN	খাদ্য পরিবেশক
+waiter:NN	প্রতীক্ষাকারী
+work:NN	কর্ম
+work:NN	শারীরিক বা মানসিক শ্রম
+work:NN	কৃতকর্ম
+work:NN	বৃত্তি
+wantonness:NN	কামুকতা
+wantonness:NN	বিলাস
+wantonness:NN	অমনযোগিতা
+washable:JJ	ধোওয়া যায় এমন
+zinnia:NN	ফুলের গাছবিশেষ
+worst:JJS	সবচেয়ে খারাপ
+worst:JJS	নিকৃষ্টতম
+yelp:NN	কুকুরের মত ডাকা
+yelp:NN	ঘেউঘেউ করা
+winter:NN	শীতঋতু
+witty:JJ	রসিক
+witty:JJ	বিচক্ষণ
+witty:JJ	বিজ্ঞ
+zionism:NN	প্যালেস্টাইনে ইহুদিদের পুনর্বাসনের আন্দোলন
+wither:VV	শুকিয়ে যাওয়া
+wither:VV	ম্নান হওয়া
+wreck:NN	বিণাশ
+wreck:NN	ধ্বংস
+wag:VV	ইতস্ততঃ নাড়ানো
+where:WRB	যেথায়
+worry:VV	উদ্ধিগ্ন হওয়া
+your:PP$	তোমার
+your:PP$	তোমাদের
+your:PP$	আপনার
+your:PP$	আপনাদের
+your:PP$	তোর
+your:PP$	তোদের
+visitation:NN	যাজকীয় পরিদর্শন
+visitation:NN	দৈবানুগ্রহ
+waken:NN	জাগা
+waken:NN	জাগানো
+wedge:NN	গোঁজ
+wedge:NN	খোঁটা
+wedge:NN	কীলক
+weed:NN	আগাছা
+willynilly:RB	বাধ্যতামূলকভাবে
+wrong:JJ	ভুল
+wrong:JJ	অন্যায়
+wrong:JJ	মিথ্যা
+wrong:JJ	ভ্রান্ত
+wrong:JJ	অশুদ্ধ
+wile:NN	ছল
+wittingly:RB	জেনেশুনে
+wittingly:RB	ইচ্ছাকৃতভাবে
+wily:JJ	ধূর্ত
+wily:JJ	শঠ
+yearly:JJ	বার্ষিক
+yearly:JJ	বাৎসরিক
+yearly:JJ	বর্ষস্থায়ী
+violate:VV	লঙ্ঘন করা
+wicker:NN	কঞ্চি
+wicker:NN	কঞ্চি নির্মিত
+viol:NN	বীণা
+viol:NN	বড় বেহালা বিশেষ
+vise:NN	ভিসা
+vise:NN	প্রবাসাজ্ঞা
+windmill:NN	বায়ুচালিত কল
+wise:JJ	বিজ্ঞ
+wise:JJ	জ্ঞানী
+wise:JJ	বিচক্ষণ
+yon:RB	ওই
+yon:RB	ওখানে
+yes:UH	হ্যাঁ
+yours:PP	আপনার
+yours:PP	আপনাদের
+yours:PP	তোমার
+yours:PP	তোমাদের
+yours:PP	তোর
+yours:PP	তোদের
+warlike:JJ	সামরিক
+warlike:JJ	রণলিপ্সু
+warlike:JJ	যুদ্ধার্থ প্রস্তুত
+zephyr:NN	মৃদুমন্দ বায়ু
+why:WRB	কি জন্য
+woe:NN	দুঃখ
+woe:NN	দুর্দশা
+warily:RB	সাবধানে
+yen:NN	জাপানের মুদ্রাবিশেষ
+wry:JJ	পাকানো
+wry:JJ	তেরছা
+wry:JJ	বিকৃত
+virgin:NN	অবিবাহিতা মেয়ে
+wash:VV	ধোওয়া
+wash:VV	ধৌত করা
+woodman:NN	কাঠুরিয়া
+woodman:NN	বনরক্ষক
+zigzag:NN	আঁকা বাঁকা রেখা
+whisper:VV	ফিসফিস করে কথা বলা
+whisper:VV	চুপি চুপি বলা
+wordy:JJ	শব্দবহুল মৌখিক
+wordy:JJ	শব্দময়
+weary:JJ	অবসন্ন
+weary:JJ	ক্লান্ত
+whit:NN	ফোঁটা
+whit:NN	বিন্দু
+washerman:NN	ধোপা
+washerman:NN	রজক
+witch:NN	ডাইনী
+witch:NN	যাদুকরী
+yawn:NN	হাই তোলা
+zoroastrian:NN	জোরোয়াস্টার-সম্বনধীয়
+void:NN	শূন্য
+void:NN	বাতিল
+void:NN	অপ্রযোজ্য
+weight:NN	ভার
+weight:NN	বাটখারা
+welfare:NN	কল্যাণ
+welfare:NN	উন্নতি
+welfare:NN	মঙ্গল
+wharfage:NN	জেটি ভাড়া
+xylophone:NN	বাদ্যযন্ত্র বিশেষ
+worship:VV	পূজা করা
+worship:VV	অর্চনা করা
+worship:VV	আরাধনা করা
+vouch:VV	মতামত দেওয়া
+vouch:VV	ভোট দেওয়া
+vouch:VV	জামিন হওয়া
+vouch:VV	সমর্থন করা
+vouch:VV	সাক্ষ্য দেওয়া
+waltz:NN	দুই ব্যক্তির ঘুরে ঘুরে নাচা বা নাচানো
+younker:NN	যুবক
+younker:NN	ছোকরা
+wriggle:NN	মোচড় দেওয়া
+wriggle:NN	অস্বস্তি বোধ করা
+viscous:JJ	চটচটে
+viscous:JJ	আঠালো
+wet-nurse:JJ	যে ধাত্রী শিশুকে মায়ের বদলে স্তন্য দেয়
+wonted:JJ	স্বাভাবিক
+yeoman:NN	জোতদার
+volition:NN	ইচ্ছা
+wake:VV	ঘুম থেকে জাগানো
+wake:VV	জেগে থাকা
+yester:NN	গতকালকের
+yester:NN	গত দিবস
+yell:VV	তীব্র চিৎকার করা
+zeal:NN	আগ্রহ
+voracity:NN	আহারে প্রচন্ড লোভ
+yearn:VV	উৎসুক হওয়া
+yearn:VV	ইচ্ছা করা
+virtual:JJ	ভারচুয়াল
+virtual:JJ	ফলতঃ বটে কিন্তু বাহ্যতঃ নয় এমন
+visiting-card:JJ	নাম ঠিকানা সংবলিত ছোট কার্ড
+wide:JJ	প্রশন্ত
+wide:JJ	চওড়া
+wide:JJ	বিস্তীর্ণ
+wide:JJ	দুরপ্রসারিত
+way-out:JJ	বাহিরে যাইবার পথ
+wayfarer:NN	পথিক
+wayfarer:NN	যাত্রী
+vindicative:JJ	সমর্থনকারী
+yore:PP$	পুরাকাল
+zoology:NN	প্রাণিবিদ্যা
+zoology:NN	প্রাণিতত্ত্ব
+want:NN	অভাব
+want:NN	কমতি
+want:NN	ঘাটতি
+want:NN	অভাব-গ্রস্ত অবস্থা
+wakeful:JJ	জাগ্রৎ
+wakeful:JJ	জাগরুক
+wakeful:JJ	জাগরিত
+wakeful:JJ	সর্তক
+while:IN	সময়
+while:IN	অল্পক্ষণ
+while:IN	কিছু সময়
+waning:JJ	ক্ষীণমাণ
+waning:JJ	কমিয়া আসিতেছে এমন
+yearning:NN	বলবতী ইচ্ছ
+zealous:JJ	অত্যন্ত আগ্রহশীল
+youngest:JJS	সর্বকনিষ্ঠ
+zoo:NN	পশুশালা
+zoo:NN	চিড়িয়াখানা
+wrathful:JJ	ক্রুদ্ধ
+wrathful:JJ	ক্রোধ-প্রকাশক
+yam:NN	মিষ্টি আলু
+whimsical:JJ	খামখেয়ালী
+whimsical:JJ	বাতিকগ্রস্ত
+whet:VV	শান দেওয়া
+whet:VV	ধার দেওয়া
+whet:VV	উত্তেজিত করা
+war:VV	লড়াই
+war:VV	যুদ্ধ
+water:NN	জলাশয়
+water:NN	জলভাগ
+worm:NN	পোকা
+worm:NN	কীট
+worm:NN	কৃমি
+zealot:NN	অতি গোড়া লোক
+warmonger:NN	যুদ্ধ-পিপাসু
+warmonger:NN	যে যুদ্ধে প্ররোচিত করে
+westward:RB	পশ্চিমাভিমুখে
+wax:VV	বৃদ্ধি পাওয়া
+wolf:NN	নেকড়েবাঘ
+winnow:VV	তুষ ঝাড়া
+winnow:VV	পরীক্ষা করা
+yankee:NP	মার্কিন
+yankee:NP	আমেরিকাবাসী
+whilst:IN	যখন
+whilst:IN	যতক্ষণ না
+zither:NN	তারের বাদ্যযন্ত্রবিশেষ
+whale:NN	স্তন্যপায়ী সামুদ্রিক প্রাণী বিশেষ
+zoom:VV	অতিশয় বেগে ও খাড়াভাবে বিমান উপরে উঠানো
+washer:NN	ধৌত করার যন্ত্র
+washer:NN	ধৌতকারক বস্তু
+washer:NN	ওয়াশার
+windlass:NN	চরকি কল
+yellowish:JJ	কিঞ্চিৎ পীত
+wheeze:VV	সাঁসাঁ করে নিঃশ্বাস ফেলা
+whistle:NN	বাঁশি
+whistle:NN	হুইসল
+whistle:NN	শিস
+whistle:NN	হুইসলের শব্দ
+widely:RB	বহুদূর ব্যাপিয়া
+widely:RB	অত্যধিক মাত্রায়
+wretchedness:NN	হীনাবস্থা
+wretchedness:NN	দুর্ভাগ্য
+yellow-fever:NN	পীতজ্বর
+wiseacre:NN	পন্ডিত-মুর্খ
+wee:JJ	পুচকে
+wee:JJ	অতিক্ষুদ্র
+weak:JJ	কোমল
+ye:PP	তোমরা
+ye:PP	আপনারা
+windy:JJ	ঝড়ো
+windy:JJ	বাগাড়ম্বরপূর্ণূ
+windy:JJ	অংহকারী
+wilt:MD	ধূর্ত
+wilt:MD	শঠ
+yea:NN	হ্যাঁ
+vocal:JJ	স্বর-সংক্রান্ত
+vocal:JJ	স্বরযুক্ত
+vocal:JJ	কন্ঠ্য
+wilful:JJ	একগুয়ে
+wilful:JJ	ইচ্ছাকৃত
+ward:NN	প্রহরা
+ward:NN	রক্ষণাবেক্ষন
+visualize:VV	দৃষ্টিগোচর করানো
+visualize:VV	সুস্পষ্টভাবে উদ্ভাসিত করানো
+weasel:NN	নেউল
+weasel:NN	বেজি জাতীয় জন্তু
+vivacious:JJ	জীবন্ত
+vivacious:JJ	প্রাণবন্ত
+vivacious:JJ	প্রাণময়
+vivacious:JJ	উৎফুল্ল
+waif:NN	বেওয়ারিশ মাল
+waif:NN	ভবঘুরে
+waif:NN	পরিত্যক্ত গৃহহীন শিশু
+woebegone:JJ	বিষাদমলিন
+woebegone:JJ	দুঃখজনক
+watt:NN	বিদ্যুৎশক্তির একক বা মান
+womb:NN	গর্ভ
+womb:NN	জরায়ু
+womb:NN	গভীর
+womb:NN	গহ্বর
+whether:IN	যা
+whether:IN	যাহা
+vociferous:JJ	কোলাহলপূর্ণ
+vociferous:JJ	গলাবাজ
+which:WDT	কোনটি
+which:WDT	কোনগুলো
+which:WDT	যেটি
+which:WDT	যেগুলো
+which:WDT	যাহা
+wildly:RB	বন্যভাবে
+wildly:RB	দুর্দান্তভাবে
+waver:VV	তরঙ্গায়িত করা
+waver:VV	ঢেউ খেলানো
+word-play:JJ	বুদ্ধিদীপ্ত তর্কাদি
+vogue:NN	কেতা
+vogue:NN	ফ্যাশন
+vitate:VV	দূষিত করা
+vitate:VV	বাতিল করা
+wallaby:NN	ক্ষুদ্র ক্যাঙ্গারু বিশেষ
+wealthy:JJ	ধনী
+wealthy:JJ	সম্পদশালী
+viz:NN	উদাহরণস্বরূপ
+viz:NN	যথা
+worshipper:NN	পূজারী
+worshipper:NN	ভক্ত
+weft:NN	পড়েন
+weft:NN	কাপড়ের পড়েনের সূতা
+warm:JJ	ঈষদুষ্ণ
+warm:JJ	অল্প গরম
+warm:JJ	আন্তরিক
+witness:NN	প্রমাণ
+witness:NN	সাক্ষ্য
+zion:NP	জেরুজালেমের গিরি
+waffle:NN	বকবক করা
+vital:JJ	জীবন সম্বন্ধীয়
+vital:JJ	সঞ্জীবনী
+vital:JJ	প্রয়োজনীয়
+whinny:NN	হ্রেষাধ্বনি
+weigh:VV	ওজন করা
+weigh:VV	ওজন হওয়া
+weigh:VV	ওজনে সমান হওয়া
+wrappern:NP	আলোয়ান
+wrappern:NP	সংবাদপত্রদির মোড়ক বিশেষ
+zend-avesta:NP	প্রাচীন পারস্যের ধর্মপুস্তক
+zoological:JJ	প্রাণিতত্ত্বসম্বন্ধীয়
+warbler:NN	গায়ক
+warbler:NN	গায়ক পাখি
+virulence:NN	তীব্রতা
+virulence:NN	উগ্রতা
+wonder:NN	বিস্ময়
+wonder:NN	বিস্ময়কর
+wonder:NN	বস্তু
+vitalize:VV	সতেজ করা
+vitalize:VV	প্রাণবন্ত করা
+yarn:NN	বুনা সুতা
+yarn:NN	পাকানো সুতা
+wrath:NN	গভীর ক্রোধ
+wrath:NN	রাগ
+wrath:NN	কোপ
+whither:NN	কোথায়
+whither:NN	যেখানে
+x-rays:NNS	এক্স-রশ্মি
+x-rays:NNS	রঞ্জনরশ্মি
+wage-earmer:JJ	মজুর
+wage-earmer:JJ	যে ব্যক্তি বেতন বা মজুরির বিনিময়ে খাটে
+wage-earmer:JJ	শ্রমিক
+wait:VV	বিলম্ব করা
+whitlow:NN	আঙুল-হাড়া রোগ
+wavelength:NN	তরঙ্গদৈর্ঘ্য
+waste:NN	পতিত
+waste:NN	অকেজো
+waste:NN	আবর্জনা
+war-cloud:JJ	আসন্ন যুদ্ধের আভাস
+war-cloud:JJ	যুদ্ধাশঙ্কা
+wire-work:JJ	তারের জাল
+virile:JJ	পুরুষোচিত
+virile:JJ	বীর্যবান
+wintry:JJ	ঝড়ো
+wintry:JJ	শীতকালীন
+wistfully:RB	সতৃষ্ণভাবে
+young:JJ	অল্পবয়স্ক
+young:JJ	তরুণ
+virus:NN	সংক্রামক রোগের অদৃশ্য জীবানু বিশেষ
+wrestle:VV	কুস্তি করা
+wet:JJ	ভিজা
+wet:JJ	সিক্ত
+whiff:NN	বাতাসের ঝাপটা
+warble:JJ	গলা কাঁপিয়ে গান করা
+welter:VV	ধূলায় গড়াগড়ি দেওয়া
+yeast:NN	গাজলাবিশেষ
+weekday:NN	কার্যদিন
+wistful:JJ	সতৃষ্ণ
+w:NP	ইংরেজি বর্ণমালার ত্রয়োবিংশ অক্ষর
+weather:NN	আবহওয়া
+weather:NN	জলবায়ু
+vindicatory:NN	সমর্থনকারী
+withless:JJ	বুদ্ধিহীন
+withless:JJ	নির্বোধ
+yelk:VV	চিৎকার করা
+yelk:VV	আর্তনাদ করা
+yeomanry:NN	জোতদার সমপ্রাদায়
+vociferate:VV	চিৎকার করা
+vociferate:VV	শোরগোল করা
+vulcanize:VV	তাপ দিয়ে গন্ধকের সাথে সংযুক্ত করা
+viscid:JJ	চটচটে
+viscid:JJ	আঠালো
+waistcoat:NN	ওয়েস্টকোট
+waistcoat:NN	ফতুয়াবিশেষ
+wane:VV	হ্রাস পাওয়া
+wane:VV	ক্রমশ ক্ষীণ হওয়া
+weaving:VVG	বুনন শিল্প
+volatile:JJ	উদ্বায়ী
+volatile:JJ	যাহা দ্রুত উবিয়া যায়
+volatile:JJ	চঞ্চল
+what:WP	কি
+what:WP	কী
+what:WP	যা
+what:WP	যেমন
+vocative:JJ	সম্বোধন পদাত্মক
+waiting-maid:NN	পরিচারিকা
+youngster:NN	বালক
+youngster:NN	ছোকরা
+waiver:NN	স্বত্বত্যাগ
+waiver:NN	দাবি ত্যাগ
+would:MD	হবু
+would:MD	ভাবী
+without:IN	(সীমার বাইরে
+without:IN	বিনা
+without:IN	ছাড়া
+visage:NN	মুখ
+yet:RB	তখনও
+walkie-talkie:NN	বহনসাধ্য বেতার টেলিফোন যন্ত্র
+web-footed:JJ	লিপ্তপাদ
+web-footed:JJ	জোড়া-পা বিশিষ্ট
+zinc:NN	দস্তা
+wield:VV	পরিচালনা করা
+wield:VV	প্রভাব বিস্তার করা
+wretched:JJ	চরম দুর্দশাগ্রস্ত
+wretched:JJ	হতভাগ্য দুঃখজনক
+wantonly:RB	যথেচ্ছাপূর্বক
+wantonly:RB	উদ্দেশ্যহীনভাবে
+would-be:JJ	হবু
+would-be:JJ	ভাবী
+vision:NN	দর্শন
+vision:NN	দৃষ্টিশক্তি
+vision:NN	কল্পনাশক্তি
+zulu:NN	জুলু
+winner:NN	বিজয়ী
+winner:NN	বিজেতা
+winner:NN	প্রতিযোগিতায় জয়ী
+whosoever:WP	যেকেহ
+yolk:NN	ডিম্বের পীতাংশ
+wall:NN	দেওয়াল
+wall:NN	পাঁচিল
+wall:NN	প্রাচীরগাত্র
+voice:VV	মতপ্রকাশ করা
+violin:NN	বেহালা
+worthy:JJ	যোগ্য
+worthy:JJ	উপযুক্ত
+worthy:JJ	মূল্যবান
+y:NP	ইংরেজি বর্ণমালার পঞ্চবিংশ বর্ণ
+zip:NN	বাতাসের মধ্য দিয়ে গুলি ছুটার শব্দের মত শব্দ
+vinous:JJ	মদ্যসম্বন্ধীয়
+vinous:JJ	মদিরাসদৃশ্য
+violent:JJ	তীব্র
+violent:JJ	প্রচন্ড
+violent:JJ	উগ্র
+whisk:VV	দ্রুতবেগে যাওয়া
+weave:VV	বয়ন করা
+weave:VV	বোনা
+warning:NN	বিপদসঙ্গেত
+warning:NN	সাবধানবাণী
+witticism:NN	সরস উক্তি
+witticism:NN	তামাশা
+wart:NN	আঁচিল
+wart:NN	জডুল
+yearlong:JJ	এক বর্ষব্যাপী
+votary:JJ	ব্রতী
+votary:JJ	ভক্ত
+warfare:NN	যুদ্ধবিগ্রহ
+warfare:NN	সংগ্রাম
+warfare:NN	সংগ্রামরত অবস্থা
+yesterday:NN	গত দিবস
+weep:VV	কাঁদা
+weep:VV	চোখের জল ফেলা
+weather-glass:NN	বায়ুমান যন্ত্র
+waste-paper:JJ	বাজে কাগজ
+z:NP	ইংরেজি বর্ণমালার ষড়বিংশ বর্ণ
+warrant:NN	হুকুমনামা
+vow:NN	স্বেচ্চাকৃত অঙ্গীকার
+vow:NN	শপথ
+vow:NN	অঙ্গীকার
+waggish:JJ	রঙ্গপ্রিয়
+waggish:JJ	রহস্য প্রিয়
+winning:JJ	জয়ী
+wheel-chair:JJ	হুইলচেয়ার
+wheel-chair:JJ	অসুস্থ লোকদের বহিরার নিমিত্ত চাকাওয়ালা চেয়ার বিশেষ
+vulgar:JJ	অশিষ্ট
+vulgar:JJ	অভদ্র
+wax-candle:NN	মোমবাতি
+wire:NN	তার
+wire:NN	ধাতুর তার
+wire:NN	টেলিগ্রাম
+younger:JJR	বয়সে ছোট
+younger:JJR	কচি
+warship:NN	রণতরী
+wastage:NN	অপচয়
+wastage:NN	অপব্যয়
+waggery:NN	ভাঁড়ামি
+waggery:NN	ফক্কুড়ি
+worn-out:JJ	ক্লান্ত
+westernmost:JJ	সর্ব-পশ্চিমে অবস্থিত
+visual:JJ	দৃষ্টিগোচর
+visual:JJ	দর্শন সংক্রান্ত
+visual:JJ	চাক্ষুষ
+withstand:VV	বাধা দেওয়া
+withstand:VV	প্রতিরোধ করা
+women:NNS	স্ত্রীলোক
+women:NNS	নারী
+voluble:JJ	বাক্‌পটু
+voluble:JJ	বাচাল
+voluble:JJ	অনর্গল বক্তৃতা দিতে পারে এমন
+wicked:JJ	দুষ্ট
+wicked:JJ	পাপী
+wicked:JJ	নীতিহীন
+wicked:JJ	অনিষ্টকর
+wizard:NN	যাদুকর
+wizard:NN	মায়াবী
+wizard:NN	ঐন্দ্রজালিকা
+wizard:NN	বিস্ময়কর
+wizard:NN	কর্মান্রুষ্ঠাতা
+wood-nymph:JJ	বনপরী
+vocalist:NN	গায়ক
+volley-ball:NN	ভলিবল
+wave:NN	ঢেউ
+wave:NN	প্রবাহ
+yclept:NN	অভিহিত
+vitroil:NN	সালফিউরিক অ্যাসিড
+vitroil:NN	গন্ধক দ্রাবক
+zodiac:NN	রাশিচক্র
+xanthippe:NN	কলপ্রিয়া স্ত্রী
+xanthippe:NN	মুখরা রমনী
+virgo:NN	কন্যারাশি
+wimple:NN	সন্ন্যাসিনীর ঘোমটাবিশেষ
+wicker-work:JJ	কঞ্চি দ্বারা নির্মিত দ্রব্য
+wilness:NN	শঠতা
+wilness:NN	কপটতা
+yard-stick:NN	গজকাঠি
+vocabulary:NN	শব্দকোষ
+vocabulary:NN	অভিধান
+weariness:NN	ক্লান্তি
+weariness:NN	অবসাদ
+woo:VV	প্রেমপ্রার্থনা করা
+woo:VV	বিবাহের প্রস্তাব করা
+woo:VV	লাভ করিতে চেষ্টা করা
+xenon:NN	গ্যাসবিশেষ
+wail:NN	আর্তনাদ
+wail:NN	বিলাপ
+whiskey:NN	হুইস্কি
+whiskey:NN	উগ্র মদ্যবিশেষ
+warmth:NN	উষ্ণতা
+warmth:NN	মৃদুতাপ
+warmth:NN	আন্তরিকতা
+vivisection:NN	জীবন্ত প্রাণীর অঙ্গব্যবচ্ছেদ
+viper:NN	একজাতীয় বিষধর সাপ
+year-book:JJ	বর্ষপঞ্জী
+voluptuous:JJ	ভোগবিলাসী
+voluptuous:JJ	ইন্দ্রিয় সুখবর্ধক
+

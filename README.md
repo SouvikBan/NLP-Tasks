@@ -1,2 +1,2 @@
-# NLP-tasks
-This repo contains selected NLP tasks I have done recently.
+# NLP-Tasks
+This repo contains selected NLP projects which I have done through the years.
